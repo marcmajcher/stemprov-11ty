@@ -1,10 +1,11 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: Media
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: Media
   order: 3
+  parent: About
 ---
 
 MEDIA

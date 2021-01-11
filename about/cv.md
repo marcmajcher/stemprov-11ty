@@ -1,10 +1,12 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: CV
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: CV
   order: 3
+  parent: About
+
 ---
 
 CURRICULUM VITAE

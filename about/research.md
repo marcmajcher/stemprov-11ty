@@ -1,10 +1,12 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: Research
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: Research
   order: 3
+  parent: About
+
 ---
 
 RESEARCH

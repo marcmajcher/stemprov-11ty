@@ -1,10 +1,12 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: Teaching
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: Teaching
   order: 3
+  parent: About
+
 ---
 TEACHING/WORKSHOPS
 STEMprov: Improv for Inclusion and Belonging in Science Communication
