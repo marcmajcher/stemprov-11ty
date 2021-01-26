@@ -9,6 +9,43 @@ body {
   width: 90%;
 }
 
+img.big-header {
+  width: 100%;
+  height: auto;
+  border-bottom: 40px solid #7b1fa2;
+  min-height: 825px;
+  min-width: 1250px;
+}
+
+div.words {
+  font-weight: 500;
+  color: #f3e5f5;
+  position: absolute;
+  top: 180px;
+  left: 80px;
+  font-size: 4rem;
+  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.big-word {
+  font-weight: 700;
+  font-size: 9rem;
+}
+.big-word-one {
+  margin-left: 200px;
+  margin-left: 13rem;
+}
+.big-word-two {
+  margin-top: -20px;
+}
+.word-one {
+  margin-top: -10px;
+  margin-left: 20rem;
+}
+.word-two {
+  margin-top: -10px;
+  margin-left: 13rem;
+}
 /* header {
   background-image: url("/img/hero.jpg");
   background-position: center top;
