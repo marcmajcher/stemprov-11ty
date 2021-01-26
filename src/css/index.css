@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,400;0,700;0,900;1,200;1,400;1,700;1,900&display=swap");
 
 body {
-  font-family: "Mulish", "Helvetica", "Arial", sans-serif;
   color: #55516d;
+  font-family: "Mulish", "Helvetica", "Arial", sans-serif;
 }
 
 .nav-wrapper {
@@ -12,19 +12,19 @@ body {
 img.big-header {
   width: 100%;
   height: auto;
-  border-bottom: 40px solid #7b1fa2;
   min-height: 825px;
   min-width: 1250px;
+  border-bottom: 40px solid #7b1fa2;
 }
 
 div.words {
-  font-weight: 500;
   color: #f3e5f5;
+  font-size: 4rem;
+  font-weight: 500;
+  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
   position: absolute;
   top: 180px;
   left: 80px;
-  font-size: 4rem;
-  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
 }
 
 .big-word {
@@ -46,80 +46,66 @@ div.words {
   margin-top: -10px;
   margin-left: 13rem;
 }
-/* header {
-  background-image: url("/img/hero.jpg");
-  background-position: center top;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100%;
-} */
 
+header .arrow_downward {
+  position: fixed;
+  bottom: 1.5rem;
+  color: #e1bee7;
+  font-size: 3rem;
+  opacity: 0;
+}
 
-/* header h1 {
-  color: white;
-  font-size: 2.5em;
-  font-weight: 300;
-} */
+header .fadein {
+  transition: opacity 1s 2s;
+  opacity: 1;
+  /* animation: fade-slide-up 1s 1s ease-out forwards, pulse 2s 6s ease-out infinite;  */
+}
 
-/* header a {
-  border: 1px solid #e81c4f;
-  border-radius: 290486px;
-  color: #22B2EA;
-  font-size: 0.6em;
-  letter-spacing: 0.2em;
-  padding: 1em 2em;
-  text-transform: uppercase;
-  text-decoration: none;
-  transition: none 200ms ease-out;
-  transition-property: color, background;
-} */
+header .fadeout {
+  transition: opacity 1s;
+  opacity: 0;
+}
 
-/* header a:hover {
-  background: #e81c4f;
-  color: white;
-} */
+blockquote {
+  margin-top: 4rem;
+  font-size: 2rem;
+}
 
+@keyframes pulse {
+  0% {
+    opacity: 1;
+    transform: none;
+  }
+  50% {
+    opacity: 0.8;
+    transform: scale(0.8);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
 
-/* main {
-  margin: 0 auto;
-  max-width: 50em;
-  padding: 4em 1em;
-  background-color: white;
-} */
+@keyframes fade-slide-up {
+  0% {
+    opacity: 0;
+    transform: translateY(4rem);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
 
-/* h1,
-h2,
-strong {
-  color: #333;
-} */
+.subscribe-form {
+  margin-top: 4rem;
+  margin-bottom: 6rem;
+}
 
-/* h2 {
-  margin-top: 1em;
-  padding-top: 1em;
-} */
+.header {
+  font-weight: 700;
+}
 
-/* a {
-  color: #ce93d8;
-} */
-
-/* code,
-pre {
-  background: #eee;
-} */
-
-/* code {
-  padding: 2px 4px;
-  vertical-align: text-bottom;
-} */
-/* 
-pre {
-  padding: 1em;
-  border-left: 2px solid #69c;
-} */
-
-/* code,
-pre {
-  background: #f5f7f9;
-  border-bottom: 1px solid #d8dee9;
-  color: #a7adba;
-} */
+h3 {
+  font-size: 2rem;
+}

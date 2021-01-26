@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+    <script src="{{ '/js/index.js' | url}}" />
   </head>
   <body>
     <nav class="purple darken-2" role="navigation">
@@ -18,7 +19,7 @@
         <a id="logo-container" class="brand-logo" href="{{ '/' | url }}">{{ metadata.title }}</a>
 
         {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-        <ul class="right hide-on-med-and-down">
+        {# <ul class="right hide-on-med-and-down">
           {%- for entry in collections.all | eleventyNavigation %}
             <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}">
               <a href="{{ entry.url | url }}">{{ entry.title }}</a>
@@ -34,7 +35,7 @@
         </ul>
         <a href="#" data-target="nav-mobile" class="sidenav-trigger">
           <i class="material-icons">menu</i>
-        </a>
+        </a> #}
       </div>
     </nav>
 
@@ -42,7 +43,7 @@
       {{ content | safe }}
     </main>
 
-    <footer></footer>
+    <footer class="page-footer purple darken-1">STEMprov 2021 | Nichole is rad.</footer>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
