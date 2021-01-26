@@ -9,6 +9,57 @@ body {
   width: 90%;
 }
 
+.header {
+  color: #6a1b9a;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2.5rem;
+}
+h3 {
+  font-size: 2rem;
+}
+
+blockquote {
+  margin-top: 4rem;
+  font-size: 2rem;
+}
+
+footer {
+  padding: 1em;
+  margin-top: 8rem;
+}
+
+footer .row {
+  margin-bottom: 0;
+}
+
+.page ul > li {
+  list-style-type: circle;
+  margin-left: 2.5rem;
+}
+
+.direct-link {
+  color: #f3e5f5;
+}
+
+.about-img {
+  width: 100%;
+  height: auto;
+}
+
+strong {
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+
+/* Everything after here is home page fiddle faddle */
+
 img.big-header {
   width: 100%;
   height: auto;
@@ -66,10 +117,12 @@ header .fadeout {
   opacity: 0;
 }
 
-blockquote {
+.subscribe-form {
   margin-top: 4rem;
-  font-size: 2rem;
+  margin-bottom: 6rem;
 }
+
+/* Animations */
 
 @keyframes pulse {
   0% {
@@ -95,17 +148,4 @@ blockquote {
     opacity: 1;
     transform: none;
   }
-}
-
-.subscribe-form {
-  margin-top: 4rem;
-  margin-bottom: 6rem;
-}
-
-.header {
-  font-weight: 700;
-}
-
-h3 {
-  font-size: 2rem;
 }
