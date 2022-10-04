@@ -9,10 +9,10 @@ eleventyNavigation:
 
 ## CONTACT
 
-Jesse H. Jones Communication Center (CMB) 3.108
+Jesse H. Jones Communication Center (CMB) 3.336
 2504 Whitis Ave
 Austin, TX 78712
-nichole.lynn.bennett@utexas.edu 
+nichole.lynn.bennett@utexas.edu
 
 ## EDUCATION
 
@@ -22,95 +22,213 @@ B.S. 	2009, Clemson University, Biological Sciences
 
 ## PUBLICATIONS
 
-Copple, J., Bennett, N., Dudo, A., Moon, W. K., Newman, T. P., Besley, J., ... & Volpe, C. (2020). Contribution of Training to Scientists’ Public Engagement Intentions: A Test of Indirect Relationships Using Parallel Multiple Mediation. Science Communication, 42(4), 508-537.
+# Peer-Reviewed Journal Articles
 
-Bennett, N., Moon, W., Besley, J., & Dudo, A. (2020). “Comparing the literature of science, risk, and environmental communication.” In B. Takahashi, Metag, J., Thaker, J, & Evans Comfort, S. (Eds.), ICA Routledge Handbook of International Trends in Environmental Communication, London: Routledge.  
+Bennett, N. Dudo, A., & Besley, J.C. (2022). Science Communication Fellowship Programs as
+  Gatekeepers. Public Understanding of Science, 09636625221115958.
 
-Bennett, N.,  Dudo, A., Yuan, S., & Besley, J. (2019). “Scientists, trainers, and the strategic communication of science.” In T. Newman (Ed.), Theory and Best Practices in Science Communication Training, London: Routledge.
+Copple, J., Bennett, N., Dudo, A., Moon, W. K., Newman, T. P., Besley, J., ... & Volpe, C.
+  (2020). Contribution of Training to Scientists’ Public Engagement Intentions: A Test of
+  Indirect Relationships Using Parallel Multiple Mediation. Science Communication, 42(4),
+  508-537.
 
-Bennett, N., Severns, P. M., Parmesan, C., & Singer, M. C. (2015). Geographic mosaics of phenology, host preference, adult size and microhabitat choice predict butterfly resilience to climate warming. Oikos, 124(1), 41-53.
+Bennett, N., Severns, P. M., Parmesan, C., & Singer, M. C. (2015). Geographic mosaics of
+  phenology, host preference, adult size and microhabitat choice predict butterfly
+  resilience to climate warming. Oikos, 124(1), 41-53.
 
-Warren, D. L. & Bennett, N.L. (2012). “Niches.” In D. Gibson (Ed.) Oxford Bibliographies Online: Ecology. New York: Oxford University Press.
+# Book Chapters
 
-## FUNDING & AWARDS
+Bennett, N., Moon, W.-k., Besley, J., & Dudo, A. (2021). Comparing the literature of
+  science, risk, and environmental communication. In B. Takahashi, J. Metag, J. Thaker, &
+  S. Evans Comfort (Eds.), The Handbook of International Trends in Environmental
+  Communication (pp. 88-111). Routledge.
 
-2021		<work with Adam on PT 2050>
-2020		Rita Allen Foundation Grant for STEM Graduate Students as Public Communicators Project ($50,000) 
-2020		Center for Health Communication Scholars Program: Investigating the Impact of Chest Binding on the Health and Thriving of Transgender and Gender Diverse Youth
-2019		Center for Health Communication Doctoral Fellow
-2019		Research + Practice Fellow for #InclusiveSciComm Symposium ($2000)
-2019		Planet Texas 2050 Internal Grant for Climate Change Adaptation Through Dramaturgy ($30,000)
-2018		Austin Critic’s Table Award for Improvised Production (Speak No More)
-2018		B. Iden Payne Theater Award for Outstanding Improvised Production (Speak No More)
-2018		B. Iden Payne Theater Award for Outstanding Improvised Technical Design (Death By Musical)
-2017		B. Iden Payne Theater Award for Outstanding Improvised Technical Design (How I Saved the World Over Summer Vacation)
-2017		Peggy Girshman Idea Grant, to help support a South-Central states science communicators conference, Co-PIs Juli Berwald, Marc Airhart ($2,400) 
-2014		Ecology, Evolution, and Behavior Departmental Travel Award ($1,000)
-2014		Center for Computational Biology and Bioinformatics Travel Award ($500)
-2012		Ecology, Evolution, and Behavior DDIG-like Grant ($8,000)
-2011		National Science Foundation Graduate Research Fellowship (three-year annual stipend of $34,000 along with a $12,000 cost of 
-education allowance for tuition and fees)
-2011		Recipient, The University of Texas College of Natural Sciences Outreach Excellence Award for Science Under the Stars
-2010		Ecology, Evolution, and Behavior Start-Up Grant ($2,000)
+Bennett, N.,  Dudo, A., Yuan, S., & Besley, J. (2019). “Scientists, trainers, and the
+  strategic communication of science.” In T. Newman (Ed.), Theory and Best Practices in
+  Science Communication Training. Routledge.
 
-## RESEARCH POSITIONS
+Warren, D. L. & Bennett, N. (2012). “Niches.” In D. Gibson (Ed.) Oxford Bibliographies
+  Online: Ecology. Oxford University Press.
 
-2020-Present		Knight Research Associate, Center for Media Engagement Research Assistant, UT-Austin
-2013-2014		Ecological Genomics Research Intern, Okinawa Institute of Science and Technology, Onna, Okinawa, Japan
-2011-2012		Invasive Species Ecology Research Assistant, Brackenridge Field Laboratory, UT-Austin
-2009			Climate Change Impacts Meta-Analysis Research Assistant, UT-Austin
+# White Papers
 
-## TEACHING
+Dudo, A., Besley, J., & Bennett, N. (2020) Landscape of Science Communication
+  Fellowship Programs in North America [White paper]. Rita Allen Foundation.
+  https://ritaallen.org/app/uploads/2020/06/SciEng-Fellowships-Report.pdf
 
-### University Courses
+## AWARDS & HONORES
 
-2020 		Guest lecturer for Graduate Seminar for Planet Texas 2050, “Using Logic Models for Collaboration and Science Communication"
-2020		Guest Teaching Artist for Texas State Theatre and Dance in the Community (Climate Change)
-2020 		Guest Teaching Artist for Interpersonal Communication Improv Exercises for Incoming Pharmacy Students at UT
-2019		Guest Teaching Artist for Performance Training for Instructors, “Storytelling in Science Communication:
-2019		Teaching Assistant for Public Relations Techniques 
-2019		Teaching Assistant and Practicum Lead for Science Communication Seminar & Practicum, UT-Austin
-2018-2019	Teaching Assistant for Introduction to Advertising and Integrated Brand Promotion, UT-Austin
-2015		Teaching Assistant for Scientific Inquiry Across the Disciplines, UT-Austin
-2011		Teaching Assistant for Field Biology, UT-Austin
-2010		Teaching Assistant for Evolutionary Ecology, UT-Austin
-2010		Teaching Assistant for Physiology and Functional Anatomy, UT-Austin
-2010		Teaching Assistant for Introductory Biology, UT-Austin
+2021		Roderick P. Hart Student Achievement Award, Moody College of Communication, The
+        University of Texas at Austin, $1000
+2018		Austin Critic’s Table Award for Improvised Theater Production
+2018		B. Iden Payne Theater Award for Outstanding Improvised Production
+2018		B. Iden Payne Theater Award for Outstanding Improvised Technical Design
+2017		B. Iden Payne Theater Award for Outstanding Improvised Technical Design
+2014		Ecology, Evolution, and Behavior Departmental Travel Award, $1,000
+2014		Center for Computational Biology and Bioinformatics Travel Award, $500
+2011		The University of Texas College of Natural Sciences Outreach Excellence Award for
+        Science Under the Stars
 
-### Invited Talks/Workshops
+## GRANTS & FELLOWSHIPS
 
-2020			Art Bytes
-2020			ASPSS Postdoc Scicomm Panel
-2018-Present		Founder, Facilitator, and Curriculum Developer for STEMprov: Improv for Scientists
-2020 			Storytelling for Inclusive Science Communication: Offering Counter-Narratives, Reclaiming STEM Conference
-2020			Invited Speaker for Polymathic Scholars, UT Austin
-2020 			Museum Theater Piece “Handle Me With Care: Afrofuturism and Harm to Black Bodies in Medicine,” Museum Theater Piece for Art Galleries for Black Studies and University of Texas Honors Nursing Students 
-2020			Keynote Speech at ComSciCon Houston, “Getting Beyond Sharing Facts in Science Communication”, Rice University, Houston
-2020 			Guest speaker and workshop facilitator, “Reaching Audiences & Communicating Science: Strategic Science Communication.” Texas Department of State Health Services (DSHS) Toxicology Branch.
-2020			Storytelling for Science Communication, Transmitting Science, Virtual
-2020			Introduction to Python for Biology, Transmitting Science, Virtual
-2019			STEMprov: Improv for Inclusion and Belonging at Inclusive SciComm, University of Rhode Island
-2019			Inclusive Pedagogy Panel at Inclusive SciComm, University of Rhode Island
-2019			Improv for Inclusion and Belonging at Women’s Empowerment Conference, Austin, Texas
-2018			Austin Lounge: STEMprov and Stories: Readings and Performances from ATX Science Communicators Expo Event at AAAS Annual Meeting, Austin, Texas
-2018, 2019, 2020	Python Machine Learning in Biology, Transmitting Science, Heraklion, Crete, Greece, Virtual
-2019			Python Machine Learning in Biology, The University of Glasgow, Glasgow, UK
-2013-2015		Python and R Instructor for Software Carpentry
-2013-2015		Co-Founder, Instructor for Peer-Led Introduction to Biological Statistics and R Course, Center for Computational Biology and Bioinformatics, UT-Austin
-2015			Speaker at Nerd Nite, “How to Give Your Own Nerd Nite Talk!”
+2022		Rita Allen Foundation/Wellcome Trust Grant for Arts-Sciences Collaborations
+        Landscaping Study, $50,000
+2022		University of Texas Office of Sustainability Green Fund Award for Performing
+        Environmental Counter-Narratives, $28,573
+2021		Guerilla Science Climate Change and Arts Fellow, $800
+2021		P.E.O. Scholar Award, $20,000
+2021 		University of Texas Graduate Continuing Fellowship, $30,000
+2020		Rita Allen Foundation Grant for STEM Graduate Students as Public Communicators,
+        $50,000
+2020		Center for Health Communication Scholars Grant for Investigating the Impact of
+        Chest Binding on the Health and Thriving of Transgender and Gender Diverse Youth,
+        $30,000
+2019		Center for Health Communication Doctoral Fellow, $500
+2019		Research + Practice Fellow for InclusiveSciComm Symposium, $2000
+2019		Planet Texas 2050 Internal Grant for Climate Change Adaptation Through Dramaturgy,
+        $30,000
+2018		Graduate School Recruitment Fellowship, The University of Texas at Austin, $17232
+2017		Peggy Girshman Idea Grant to help create a South-Central states science
+        communicators conference, $2,400
+2012		Ecology, Evolution, and Behavior DDIG-like Grant, $8,000
+2011		National Science Foundation Graduate Research Fellowship, three-year annual
+        stipend of $34,000 plus $12,000 education allowance for tuitions
+2010		Ecology, Evolution, and Behavior Start-Up Grant, $2,000
 
-### OTHER
+## INVITED TALKS
 
-2018-Present 	Committee Member, Treasurer, Vice President of B. Iden Payne Theater Awards Council
-2016-Present		Youth Podcast Workshop Instructor for Austin Bat Cave
-2017-2019		Conference Founder and Organizer for SciComm South
-2019			Board of Directors for Girls Rock Austin
-2016-2019		Lead Teacher for Building Connections: Improv for Autism Spectrum Disorder Youth, Salvation Army Homeless Shelter, CASA, Settlement Home, Helping Hand Home
-2018-2019		Computer Science Teacher at Long-View Micro School
-2018			Technical Director for Out of Bounds Comedy Festival
-2018			Coding Instructor and Academic Manager for Austin Coding Academy
-2017-2018		Instructor and Curriculum Writer for Data Science Courses for General Assembly
-2017-2018		Coding Instructor for Hello World Tech Studio
-2010-2015 		Radio Host for “They Blinded Me With Science” on 91.7 FM KVRX
-2009-2015		Producer for Science Under the Stars
-2010-2013		Music Director for 91.7 KVRX FM Austin
+2022		Planet Texas 2050 Resilience Roundtable Promoting & Empowering Youth as Leaders in
+        Climate Justice Struggles, Moderator
+2021		Willingness to Engage Series Part One: Indirect Effects of Science Communication
+        Training on Scientists’ Public Engagement, Alda-Kavli Learning Center Online
+        Learning for Scientists and Researchers
+2020 		Reaching Audiences & Communicating Science: Strategic Science Communication, Texas
+        Department of State Health Services (DSHS) Toxicology Branch
+2020		ASPSS Postdoc Science Communication Panelist, MD Anderson
+2020 		Storytelling for Inclusive Science Communication: Offering Counter-Narratives,
+        Reclaiming STEM Conference
+
+## CONFERENCE ACTIVITY & PARTICIPATION
+
+# Conferences & Panels Organized
+
+2017-2019 Conference Founder and Organizer for SciComm South, Austin, TX
+
+# Papers Presented
+
+2022		U.S.-based Science Communication Fellowship Programs: Form and Function.
+        Association for Education in Journalism and Mass Communication, Detroit, MI, USA,
+        August, 5.
+2022		Examine, Resist, and Repair: Using Applied Drama and Theatre to Foster
+        Environmental Agency among Youth, Association for Theatre in Higher Education,
+        Detroit, MI, USA, July 28.
+2022		Performing Stories of Ancient Resilience. Planet Texas 2050 Research Symposium
+        Lightning Talks, Austin, TX, USA, April, 14.
+2021		Landscaping Overview of North American Science Communication Fellowship Programs.
+        Public Communication of Science and Technology Network, Virtual, May, 25.
+
+# Keynote Talk
+
+2020		Getting Beyond Sharing Facts in Science Communication, ComSciCon Houston, Rice
+        University, February, 29.
+
+# Panel Discussant
+
+2021		Why do scientists engage the public in basic science?. SciPEP Communicating the
+        Future: Engaging the Public in Basic Science, Virtual.
+2019		Inclusive Pedagogy Panel, Inclusive SciComm, University of Rhode Island,
+        September, 28.
+
+-----
+## RESEARCH EXPERIENCE
+
+2022		Graduate Research Assistant: Art-Science Collaborations Landscape Study
+2021		Graduate Research Assistant for Stories of Ancient Resilience, Planet Texas 2050,
+        The University of Texas at Austin
+2021		Graduate Research Assistant: STEM Graduate Students As Public Communicators
+2020		Knight Research Associate at The Center for Media Studies: Scientists’ Twitter
+        Communication During COVID-19
+2019		Graduate Research Assistant: North American Science Communication Fellowships
+2013-2014	Graduate Research Intern at Okinawa Institute of Science and Technology, Naha:
+        Butterfly Genomics of Speciation Okinawa, Japan
+2011-2012	Graduate Research Assistant at Brackenridge Field Laboratory, The University of
+        Texas at Austin:  Ecology and Biocontrol of Invasive Fire Ants
+2009		Graduate Research Assistant, Meta-Analysis of Biological Impacts of Climate Change
+
+## TEACHING EXPERIENCE
+
+# Curriculum Development
+
+2021		Teaching Assistant for Science Communication (Online Graduate Seminar), The
+        University of Texas
+
+# Teaching Assistant
+
+2019		Public Relations Techniques, The University of Texas
+2018		Advertising and Integrated Brand Promotion, The University of Texas
+2015		Scientific Inquiry Across the Disciplines, The University of Texas
+2011		Field Biology, The University of Texas
+2010		Evolutionary Ecology, The University of Texas
+2010		Physiology and Functional Anatomy, The University of Texas
+2010		Introductory Biology, The University of Texas
+
+# Theatre Workshops
+
+2022		STEMprov: Improv for Science Communication, The University of Texas at Austin
+        Career Engagement and Society for Advancing Gender Equity
+2020		Performing Environmental Justice Youth Participatory Action Research
+2020 		“Handle Me With Care: Afrofuturism and Harm to Black Bodies in Medicine,” Museum
+        Theater Piece for Art Galleries for Black Studies and University of Texas Honors
+        Nursing Students
+2019		STEMprov: Improv for Inclusion and Belonging at Inclusive SciComm, University of
+        Rhode Island
+
+
+# Data Science Workshops
+
+2018-2021	Machine Learning and Python Courses for Biologists, Transmitting Science,
+          Heraklion, Crete, Virtual
+2019		  Python Machine Learning in Biology, The University of Glasgow, Glasgow, UK
+2017-2019	Data Science Instructor, Curriculum Writer, General Assembly
+2013-2015	Python and R Instructor, Software Carpentry
+2013-2015	Co-Founder and Instructor for Peer-Led Introduction to Biological Statistics and
+          R Course, Center for Computational Biology and Bioinformatics, The University of
+          Texas at Austin
+
+## SERVICE
+
+# Department & University
+
+2021 		Graduate Student Search Committee Member for Open-Rank, Open-Department Faculty
+        Hire in Computational Communication
+
+# Conferences
+
+2022		Graduate Student Committee Member for Association for Education in Journalism and
+        Mass Communication Communicating Health, Science,
+        Environment, and Risk Division (AEJMC ComSHER)
+
+# Journals
+
+2022 		Invited Manuscript Reviewer, Public Understanding of Science
+2022 		Invited Manuscript Reviewer, Journal of Science Communication
+2021 		Invited Manuscript Reviewer, Public Understanding of Science
+
+## PROFESSIONAL AFFILIATIONS
+
+2022- 	Association for Education in Journalism and Mass Communication (AEJMC)
+2022- 	National Communication Association (NCA)
+2022- 	International Communication Association (ICA)
+2022- 	American Association for the Advancement of Science (AAAS)
+2022-		American Drama and Theatre Society (ADTS)
+2022- 	Association for Theatre in Higher Education (ATHE)
+2019- 	Pubic Communication of Science and Technology (PCST)
+
+## COMMUNITY INVOLVEMENT/OUTREACH
+
+2020-		Organizer/Facilitator with Undoing White Supremacy Austin
+2018-		Member of B. Iden Payne Theater Awards Council
+2018-		Founder, Facilitator, and Curriculum Developer for STEMprov: Improv for
+Scientists
+2018		Technical Director for Out of Bounds Comedy Festival
+2016-		Building Connections: Improv for Autistic Youth at The Hideout Theatre
