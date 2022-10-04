@@ -7,22 +7,22 @@ eleventyNavigation:
   order: 5
 ---
 
-## CONTACT
+# CONTACT
 
 Jesse H. Jones Communication Center (CMB) 3.336
 2504 Whitis Ave
 Austin, TX 78712
 nichole.lynn.bennett@utexas.edu
 
-## EDUCATION
+# EDUCATION
 
 Ph.D.	(in progress), The University of Texas at Austin, Advertising and Public Relations
 M.A. 	2015, The University of Texas at Austin, Ecology, Evolution, and Behavior
 B.S. 	2009, Clemson University, Biological Sciences
 
-## PUBLICATIONS
+# PUBLICATIONS
 
-# Peer-Reviewed Journal Articles
+## Peer-Reviewed Journal Articles
 
 Bennett, N. Dudo, A., & Besley, J.C. (2022). Science Communication Fellowship Programs as
   Gatekeepers. Public Understanding of Science, 09636625221115958.
@@ -36,7 +36,7 @@ Bennett, N., Severns, P. M., Parmesan, C., & Singer, M. C. (2015). Geographic mo
   phenology, host preference, adult size and microhabitat choice predict butterfly
   resilience to climate warming. Oikos, 124(1), 41-53.
 
-# Book Chapters
+## Book Chapters
 
 Bennett, N., Moon, W.-k., Besley, J., & Dudo, A. (2021). Comparing the literature of
   science, risk, and environmental communication. In B. Takahashi, J. Metag, J. Thaker, &
@@ -50,13 +50,13 @@ Bennett, N.,  Dudo, A., Yuan, S., & Besley, J. (2019). “Scientists, trainers, 
 Warren, D. L. & Bennett, N. (2012). “Niches.” In D. Gibson (Ed.) Oxford Bibliographies
   Online: Ecology. Oxford University Press.
 
-# White Papers
+## White Papers
 
 Dudo, A., Besley, J., & Bennett, N. (2020) Landscape of Science Communication
   Fellowship Programs in North America [White paper]. Rita Allen Foundation.
   https://ritaallen.org/app/uploads/2020/06/SciEng-Fellowships-Report.pdf
 
-## AWARDS & HONORES
+# AWARDS & HONORS
 
 2021		Roderick P. Hart Student Achievement Award, Moody College of Communication, The
         University of Texas at Austin, $1000
@@ -69,7 +69,7 @@ Dudo, A., Besley, J., & Bennett, N. (2020) Landscape of Science Communication
 2011		The University of Texas College of Natural Sciences Outreach Excellence Award for
         Science Under the Stars
 
-## GRANTS & FELLOWSHIPS
+# GRANTS & FELLOWSHIPS
 
 2022		Rita Allen Foundation/Wellcome Trust Grant for Arts-Sciences Collaborations
         Landscaping Study, $50,000
@@ -95,7 +95,7 @@ Dudo, A., Besley, J., & Bennett, N. (2020) Landscape of Science Communication
         stipend of $34,000 plus $12,000 education allowance for tuitions
 2010		Ecology, Evolution, and Behavior Start-Up Grant, $2,000
 
-## INVITED TALKS
+# INVITED TALKS
 
 2022		Planet Texas 2050 Resilience Roundtable Promoting & Empowering Youth as Leaders in
         Climate Justice Struggles, Moderator
@@ -108,13 +108,13 @@ Dudo, A., Besley, J., & Bennett, N. (2020) Landscape of Science Communication
 2020 		Storytelling for Inclusive Science Communication: Offering Counter-Narratives,
         Reclaiming STEM Conference
 
-## CONFERENCE ACTIVITY & PARTICIPATION
+# CONFERENCE ACTIVITY & PARTICIPATION
 
-# Conferences & Panels Organized
+## Conferences & Panels Organized
 
 2017-2019 Conference Founder and Organizer for SciComm South, Austin, TX
 
-# Papers Presented
+## Papers Presented
 
 2022		U.S.-based Science Communication Fellowship Programs: Form and Function.
         Association for Education in Journalism and Mass Communication, Detroit, MI, USA,
@@ -127,20 +127,19 @@ Dudo, A., Besley, J., & Bennett, N. (2020) Landscape of Science Communication
 2021		Landscaping Overview of North American Science Communication Fellowship Programs.
         Public Communication of Science and Technology Network, Virtual, May, 25.
 
-# Keynote Talk
+## Keynote Talk
 
 2020		Getting Beyond Sharing Facts in Science Communication, ComSciCon Houston, Rice
         University, February, 29.
 
-# Panel Discussant
+## Panel Discussant
 
 2021		Why do scientists engage the public in basic science?. SciPEP Communicating the
         Future: Engaging the Public in Basic Science, Virtual.
 2019		Inclusive Pedagogy Panel, Inclusive SciComm, University of Rhode Island,
         September, 28.
 
------
-## RESEARCH EXPERIENCE
+# RESEARCH EXPERIENCE
 
 2022		Graduate Research Assistant: Art-Science Collaborations Landscape Study
 2021		Graduate Research Assistant for Stories of Ancient Resilience, Planet Texas 2050,
@@ -155,14 +154,14 @@ Dudo, A., Besley, J., & Bennett, N. (2020) Landscape of Science Communication
         Texas at Austin:  Ecology and Biocontrol of Invasive Fire Ants
 2009		Graduate Research Assistant, Meta-Analysis of Biological Impacts of Climate Change
 
-## TEACHING EXPERIENCE
+# TEACHING EXPERIENCE
 
-# Curriculum Development
+## Curriculum Development
 
 2021		Teaching Assistant for Science Communication (Online Graduate Seminar), The
         University of Texas
 
-# Teaching Assistant
+## Teaching Assistant
 
 2019		Public Relations Techniques, The University of Texas
 2018		Advertising and Integrated Brand Promotion, The University of Texas
@@ -172,7 +171,7 @@ Dudo, A., Besley, J., & Bennett, N. (2020) Landscape of Science Communication
 2010		Physiology and Functional Anatomy, The University of Texas
 2010		Introductory Biology, The University of Texas
 
-# Theatre Workshops
+## Theatre Workshops
 
 2022		STEMprov: Improv for Science Communication, The University of Texas at Austin
         Career Engagement and Society for Advancing Gender Equity
@@ -184,7 +183,7 @@ Dudo, A., Besley, J., & Bennett, N. (2020) Landscape of Science Communication
         Rhode Island
 
 
-# Data Science Workshops
+## Data Science Workshops
 
 2018-2021	Machine Learning and Python Courses for Biologists, Transmitting Science,
           Heraklion, Crete, Virtual
@@ -195,26 +194,26 @@ Dudo, A., Besley, J., & Bennett, N. (2020) Landscape of Science Communication
           R Course, Center for Computational Biology and Bioinformatics, The University of
           Texas at Austin
 
-## SERVICE
+# SERVICE
 
-# Department & University
+## Department & University
 
 2021 		Graduate Student Search Committee Member for Open-Rank, Open-Department Faculty
         Hire in Computational Communication
 
-# Conferences
+## Conferences
 
 2022		Graduate Student Committee Member for Association for Education in Journalism and
         Mass Communication Communicating Health, Science,
         Environment, and Risk Division (AEJMC ComSHER)
 
-# Journals
+## Journals
 
 2022 		Invited Manuscript Reviewer, Public Understanding of Science
 2022 		Invited Manuscript Reviewer, Journal of Science Communication
 2021 		Invited Manuscript Reviewer, Public Understanding of Science
 
-## PROFESSIONAL AFFILIATIONS
+# PROFESSIONAL AFFILIATIONS
 
 2022- 	Association for Education in Journalism and Mass Communication (AEJMC)
 2022- 	National Communication Association (NCA)
@@ -224,7 +223,7 @@ Dudo, A., Besley, J., & Bennett, N. (2020) Landscape of Science Communication
 2022- 	Association for Theatre in Higher Education (ATHE)
 2019- 	Pubic Communication of Science and Technology (PCST)
 
-## COMMUNITY INVOLVEMENT/OUTREACH
+# COMMUNITY INVOLVEMENT/OUTREACH
 
 2020-		Organizer/Facilitator with Undoing White Supremacy Austin
 2018-		Member of B. Iden Payne Theater Awards Council
