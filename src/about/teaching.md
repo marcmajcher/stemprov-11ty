@@ -49,8 +49,6 @@ Science is not currently a place of belonging for everyone, and overemphasis on 
 
 Nic Bennett researches belonging in science communication at The University of Texas as a doctoral candidate of the Stan Richards School of Advertising and Public Relations. They engage arts- and science-based research and practice to critique, disrupt, and reimagine science communication spaces. Alongside scientists and science communication trainers, they hope to expand the circle of human concern in science communication and STEM. Follow them on Instagram: @scicomm_as_healing or on Twitter: @choleness.
 
- </br>
-     {% include "subscribeForm.njk" %}
 
 
 

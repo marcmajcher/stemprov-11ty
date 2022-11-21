@@ -1,46 +1,45 @@
 ---
 layout: layouts/page.njk
-title: Projects
+title: Offerings
 templateClass: tmpl-page
 eleventyNavigation:
-  key: Projects
+  key: Offerings
   order: 3
 ---
 
-## Past Projects
+# Current Workshops
 
-Copple, J., Bennett, N., Dudo, A., Moon, W. K., Newman, T. P., Besley, J., ... & Volpe, C. (2020). Contribution of Training to Scientists’ Public Engagement Intentions: A Test of Indirect Relationships Using Parallel Multiple Mediation. Science Communication, 42(4), 508-537.
+*No public workshops currently running. Stay tuned for new workshops in December 2022.*
 
-Bennett, N., Moon, W., Besley, J., & Dudo, A. (2020). “Comparing the literature of science, risk, and environmental communication.” In B. Takahashi, Metag, J., Thaker, J, & Evans Comfort, S. (Eds.), ICA Routledge Handbook of International Trends in Environmental Communication, London: Routledge.
+Want to book me for a workshop? [http://stemprov.org/about/teaching/]
 
-Bennett, N.,  Dudo, A., Yuan, S., & Besley, J. (2019). “Scientists, trainers, and the strategic communication of science.” In T. Newman (Ed.), Theory and Best Practices in Science Communication Training, London: Routledge.
+# Current Research Projects
 
-Bennett, N., Severns, P. M., Parmesan, C., & Singer, M. C. (2015). Geographic mosaics of phenology, host preference, adult size and microhabitat choice predict butterfly resilience to climate warming. Oikos, 124(1), 41-53.
+## STEM Graduate Students as Public Communicators
+This project seeks to describe the key themes of how graduate students in STEM fields make meaning of their public engagement activities; to describe key themes of how graduate students in STEM fields describe the interaction between public engagement and their sense of belonging, and to identify/describe characteristics of STEM graduate students that may be unique to their relationship with public engagement. Funded by The Rita Allen Foundation[https://ritaallen.org/].
+	### Publications from this work:
+	STEM Graduate Students’ Perspectives on Science Communication and their Sense of Belonging in these Space[https://mediaengagement.org/research/stem-graduate-students-perspectives-on-science-communication/]
 
-Warren, D. L. & Bennett, N.L. (2012). “Niches.” In D. Gibson (Ed.) Oxford Bibliographies Online: Ecology. New York: Oxford University Press.
+## Landscape Study of Art-Science Collaborations
+Disciplinary-spanning collaborations between the arts and sciences may contain the potential to enrich multiple disciplines, produce knowledge, and address societal problems. However, not much is currently known about the landscape of these arts-science collaborations. This proposed study seeks to (1) compile a database of current programs at the interface between the arts and sciences and (2) obtain qualitative insights from key stakeholders in these spaces. This exploratory research aims to provide qualitative insights into the current opportunities and challenges these programs face as well as the outcomes that are connected to this work, especially with respect to cultivating inclusive and equitable spaces. Funded by The Rita Allen Foundation[https://ritaallen.org/] and The Burroughs Wellcome Fund[https://www.bwfund.org/].
 
-## Funding & Awards
+## Performing Embodied Counternarratives of Environmental Justice
+Environmental change represents a crucial issue for many University of Texas students, as this topic intertwines with culture, well-being, and aspirations. However, mainstream environmental narratives often ignore young people’s voices and rely on buzzwords (e.g. recycling), blame the individual (e.g. plastic straws), or propose solutions that exclude vulnerable communities (e.g. technofixes). And while scholars and practitioners increasingly recognize the importance of processing environmental change intellectually and emotionally, the body and the arts are often overlooked. This Green Fund-sponsored project at the University of Texas at Austin invites undergraduate students to perform their research around environmental and social change. These research-performances will serve as a platform for the UT community to collectively process environmental change and imagine a more equitable and environmentally sustainable UT. Funded by the Green Fund[https://sustainability.utexas.edu/getinvolved/greenfund]. Previously supported by Planet Texas 2050[https://bridgingbarriers.utexas.edu/planet-texas-2050].
 
-2020		Rita Allen Foundation Grant for STEM Graduate Students as Public Communicators Project ($50,000)
-2020		Center for Health Communication Scholars Program: Investigating the Impact of Chest Binding on the Health and Thriving of Transgender and Gender Diverse Youth
-2019		Center for Health Communication Doctoral Fellow
-2019		Research + Practice Fellow for #InclusiveSciComm Symposium ($2000)
-2019		Planet Texas 2050 Internal Grant for Climate Change Adaptation Through Dramaturgy ($30,000)
-2018		Austin Critic’s Table Award for Improvised Production (Speak No More)
-2018		B. Iden Payne Theater Award for Outstanding Improvised Production (Speak No More)
-2018		B. Iden Payne Theater Award for Outstanding Improvised Technical Design (Death By Musical)
-2017		B. Iden Payne Theater Award for Outstanding Improvised Technical Design (How I Saved the World Over Summer Vacation)
-2017		Peggy Girshman Idea Grant, to help support a South-Central states science communicators conference, Co-PIs Juli Berwald, Marc Airhart ($2,400)
+## Reclaiming Stem: A Healing-Centered Model For Inclusive Science Communication And Policy Training
+This collaboration with Evelyn Valdez-Ward, founder of Reclaiming STEM[https://reclaimingstem.wardofcode.com/], seeks to analyze data she has collected from applications and feedback surveys from the Reclaiming STEM workshops to share about a healing-centered model for inclusive science communication.
 
-## Current Projects
+## Scientists on Twitter: COVID-19 and the Proliferation of Misinformation
+Using scientist’s twitter account activity, we are exploring the extent to which scientists use Twitter as a strategic communication tool during the COVID-19 pandemic.
 
-Landscape of Science Communication Fellowships in North America
-Transmissions from 2050: Arts-Based Environmental Activism Project
-Outreach, Belonging, and Othering for STEM Graduate Students
-Empathy in Scientists’s Communication During COVID-19 Pandemic
-Investigating Scientist’s Communication Strategies on Twitter during COVID-19 Pandemic
+# Past Projects
 
-# Contact
+## Landscape Study of U.S.-based Science Communication Fellowship Programs
+Professional science communication training organizations and programs appear to have grown in number and reach in recent years. Of these efforts, fellowship programs provide arguably the most intensive and impactful science communication training experiences available. Fellowship programs are becoming increasingly key to science communication practice, helping scientists across disciplines enhance their public engagement acumen and opportunities to engage. To date, however, little attention—empirical or otherwise—has focused on understanding the landscape of science communication fellowship programs. This research provided an overview (i.e., landscape) of current North American-based science communication fellowship programs. Funded by The Rita Allen Foundation[https://ritaallen.org/].
 
-Please feel free to contact me at nichole.lynn.bennett@gmail.com to partner with me on a current or future project.
+### Publications from this work:
+Science Communication Fellowship Programs As Gatekeepers[https://journals.sagepub.com/doi/abs/10.1177/09636625221115958]
+Landscape of Science Communication Fellowship Programs in North America[https://ritaallen.org/app/uploads/2020/06/SciEng-Fellowships-Report.pdf]
+
+
 
