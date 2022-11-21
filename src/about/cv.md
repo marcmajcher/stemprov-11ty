@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: CV
-templateClass: tmpl-page
+templateClass: tmpl-about
 eleventyNavigation:
   key: CV
   order: 5
