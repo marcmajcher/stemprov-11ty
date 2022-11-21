@@ -46,9 +46,11 @@ Improv requires you to understand group dynamics, tell stories, and say yes in t
 Science is not currently a place of belonging for everyone, and overemphasis on objectivity and rationality may perpetuate this. That is, we might not be able to “science” our way out of oppressive systems. But art-based methods have the potential to disrupt and make visible injustice and cultivate a radical space for reclaiming, repairing, and reimagining science communication as an inclusive space. In this workshop, we will explore how Theatre of the Oppressed may offer healing potential for science communication spaces. Theatre of the Oppressed is a form of interactive theatre used in activism. It was developed by Augusto Boal and influenced by Paulo Freire’s Pedagogy of the Oppressed. This beginner-friendly workshop invites participants to collectively process our struggles with social justice emotionally, intellectually, and artistically through Image Theatre (a technique of Theatre of the Oppressed). Using the aesthetic, scholarly, and lived experience expertise of these participants, we will explore and make visible our current struggles in social justice in science communication spaces. By making and activating these images, we hope to create a platform for emergent insights into how to move from our current struggles to our collectively-imagined ideals.
 
 #### Facilitator Bio
+
 Nic Bennett researches belonging in science communication at The University of Texas as a doctoral candidate of the Stan Richards School of Advertising and Public Relations. They engage arts- and science-based research and practice to critique, disrupt, and reimagine science communication spaces. Alongside scientists and science communication trainers, they hope to expand the circle of human concern in science communication and STEM. Follow them on Instagram: @scicomm_as_healing or on Twitter: @choleness.
 
-
+ </br>
+     {% include "subscribeForm.njk" %}
 
 
 
