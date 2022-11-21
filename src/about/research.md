@@ -7,6 +7,8 @@ eleventyNavigation:
   order: 3
 ---
 
+
+
 # Current Workshops
 
 *No public workshops currently running. More workshops coming December 2022.*
@@ -16,7 +18,7 @@ eleventyNavigation:
 # Current Research Projects
 
 ## STEM Graduate Students as Public Communicators
-This project seeks to describe the key themes of how graduate students in STEM fields make meaning of their public engagement activities; to describe key themes of how graduate students in STEM fields describe the interaction between public engagement and their sense of belonging, and to identify/describe characteristics of STEM graduate students that may be unique to their relationship with public engagement. Funded by The Rita Allen Foundation[https://ritaallen.org/].
+This project seeks to describe the key themes of how graduate students in STEM fields make meaning of their public engagement activities; to describe key themes of how graduate students in STEM fields describe the interaction between public engagement and their sense of belonging, and to identify/describe characteristics of STEM graduate students that may be unique to their relationship with public engagement. Funded by [The Rita Allen Foundation](https://ritaallen.org/).
 	### Publications from this work:
 	[STEM Graduate Students’ Perspectives on Science Communication and their Sense of Belonging in these Spaces](https://mediaengagement.org/research/stem-graduate-students-perspectives-on-science-communication/)
 
@@ -40,3 +42,4 @@ Professional science communication training organizations and programs appear to
 ### Publications from this work:
 [Science Communication Fellowship Programs As Gatekeepers](https://journals.sagepub.com/doi/abs/10.1177/09636625221115958)
 [Landscape of Science Communication Fellowship Programs in North America](https://ritaallen.org/app/uploads/2020/06/SciEng-Fellowships-Report.pdf)
+
