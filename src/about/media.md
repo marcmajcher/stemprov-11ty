@@ -10,7 +10,7 @@ eleventyNavigation:
 
 [Performing Stories of Ancient Resilience](https://www.youtube.com/clip/Ugkx_ogKxA7BFKJ-XND3yXnWuXeTRLmdR3V4) lightning talk for [Planet Texas 2050](https://bridgingbarriers.utexas.edu/planet-texas-2050) 2022 Symposium
 
-[Why do scientists engage the public in basic science?](https://www.youtube.com/watch?v=PexDZEll2TE&list=PLX-OjlVs8NUIZUATtVnnAj5aDuoNrgJ06&index=16&ab_channel=SciPEP) for [SciPEP](Science Public Engagement Partnership) 2021 Conference: Communicating the Future: Engaging the Public in Basic Science
+[Why do scientists engage the public in basic science?](https://www.youtube.com/watch?v=PexDZEll2TE&list=PLX-OjlVs8NUIZUATtVnnAj5aDuoNrgJ06&index=16&ab_channel=SciPEP) for [SciPEP](https://scipep.org/) (Science Public Engagement Partnership) 2021 Conference: Communicating the Future: Engaging the Public in Basic Science
 
 [ART BYTES: Advice Column Answers From the Future](https://www.hivearts.org/blog/art-bytes-nichole-bennett) for [HIVE Arts Collective](https://www.hivearts.org/)
 
@@ -36,7 +36,7 @@ eleventyNavigation:
 
 [Planet Texas 2050 Podcast Pilot: Why Does Climate Change Need the Arts and Humanities?](https://soundcloud.com/theawkwardoff/planet-texas-2050-podcast-pilot)
 
-[Wavelength (Science Communication Podcast) Pilot: Interview with Marc Airhard](https://soundcloud.com/theawkwardoff/wavelength-episode-1-marc-airhart)
+[Wavelength (Science Communication Podcast) Pilot: Interview with Marc Airhart](https://soundcloud.com/theawkwardoff/wavelength-episode-1-marc-airhart)
 
 [Teen Summer Workshop Podcast](https://austinbatcave.org/2016/08/12/abc-all-summer-sixteen/) with [Austin Bat Cave](https://austinbatcave.org/)
 
