@@ -18,7 +18,7 @@ eleventyNavigation:
 
 [Vortex vs. Coronavirus: The Shows Really Do Go On](https://www.austinchronicle.com/daily/arts/2020-09-24/vortex-vs-coronavirus-the-shows-really-do-go-on/)
 
-[Pierce the Veil]((https://www.facebook.com/watch/live/?ref=watch_permalink&v=258005185397586) virtual performance for [The Vortex](https://vortexrep.org)
+[Pierce the Veil](https://www.facebook.com/watch/live/?ref=watch_permalink&v=258005185397586) virtual performance for [The Vortex](https://vortexrep.org)
 
 [Indirect Effects Of SciComm Training](https://www.stonybrook.edu/commcms/alda-center/thelink/posts/Indirect_Effects_scicomm.php) for [Alan Alda Center for Communicating Science’s](https://aldacenter.org/) [Willingness to Engage Series](https://www.stonybrook.edu/commcms/alda-center/thelink/listing.php?tag=willingness%20to%20engage)
 
