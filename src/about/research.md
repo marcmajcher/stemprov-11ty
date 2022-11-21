@@ -7,13 +7,13 @@ eleventyNavigation:
   order: 3
 ---
 
-<center># Current Workshops</center>
+# Current Workshops
 
 *No public workshops currently running. More workshops coming December 2022.*
 
 [Want to book me for a workshop?](http://stemprov.org/about/teaching/)
 
-<center># Current Research Projects</center>
+# Current Research Projects
 
 ## STEM Graduate Students as Public Communicators
 This project seeks to describe the key themes of how graduate students in STEM fields make meaning of their public engagement activities; to describe key themes of how graduate students in STEM fields describe the interaction between public engagement and their sense of belonging, and to identify/describe characteristics of STEM graduate students that may be unique to their relationship with public engagement. Funded by [The Rita Allen Foundation](https://ritaallen.org/).
@@ -32,7 +32,7 @@ This collaboration with Evelyn Valdez-Ward, founder of [Reclaiming STEM](https:/
 ## Scientists on Twitter: COVID-19 and the Proliferation of Misinformation
 Using scientist’s twitter account activity, we are exploring the extent to which scientists use Twitter as a strategic communication tool during the COVID-19 pandemic.
 
-<center># Past Projects</center>
+# Past Projects
 
 ## Landscape Study of U.S.-based Science Communication Fellowship Programs
 Professional science communication training organizations and programs appear to have grown in number and reach in recent years. Of these efforts, fellowship programs provide arguably the most intensive and impactful science communication training experiences available. Fellowship programs are becoming increasingly key to science communication practice, helping scientists across disciplines enhance their public engagement acumen and opportunities to engage. To date, however, little attention—empirical or otherwise—has focused on understanding the landscape of science communication fellowship programs. This research provided an overview (i.e., landscape) of current North American-based science communication fellowship programs. Funded by [The Rita Allen Foundation](https://ritaallen.org/).
