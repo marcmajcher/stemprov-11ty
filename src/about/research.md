@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.njk
-title: Research
+title: Projects
 templateClass: tmpl-page
 eleventyNavigation:
-  key: Research
+  key: Projects
   order: 3
 ---
 
@@ -11,7 +11,7 @@ eleventyNavigation:
 
 Copple, J., Bennett, N., Dudo, A., Moon, W. K., Newman, T. P., Besley, J., ... & Volpe, C. (2020). Contribution of Training to Scientists’ Public Engagement Intentions: A Test of Indirect Relationships Using Parallel Multiple Mediation. Science Communication, 42(4), 508-537.
 
-Bennett, N., Moon, W., Besley, J., & Dudo, A. (2020). “Comparing the literature of science, risk, and environmental communication.” In B. Takahashi, Metag, J., Thaker, J, & Evans Comfort, S. (Eds.), ICA Routledge Handbook of International Trends in Environmental Communication, London: Routledge.  
+Bennett, N., Moon, W., Besley, J., & Dudo, A. (2020). “Comparing the literature of science, risk, and environmental communication.” In B. Takahashi, Metag, J., Thaker, J, & Evans Comfort, S. (Eds.), ICA Routledge Handbook of International Trends in Environmental Communication, London: Routledge.
 
 Bennett, N.,  Dudo, A., Yuan, S., & Besley, J. (2019). “Scientists, trainers, and the strategic communication of science.” In T. Newman (Ed.), Theory and Best Practices in Science Communication Training, London: Routledge.
 
@@ -21,7 +21,7 @@ Warren, D. L. & Bennett, N.L. (2012). “Niches.” In D. Gibson (Ed.) Oxford Bi
 
 ## Funding & Awards
 
-2020		Rita Allen Foundation Grant for STEM Graduate Students as Public Communicators Project ($50,000) 
+2020		Rita Allen Foundation Grant for STEM Graduate Students as Public Communicators Project ($50,000)
 2020		Center for Health Communication Scholars Program: Investigating the Impact of Chest Binding on the Health and Thriving of Transgender and Gender Diverse Youth
 2019		Center for Health Communication Doctoral Fellow
 2019		Research + Practice Fellow for #InclusiveSciComm Symposium ($2000)
@@ -30,7 +30,7 @@ Warren, D. L. & Bennett, N.L. (2012). “Niches.” In D. Gibson (Ed.) Oxford Bi
 2018		B. Iden Payne Theater Award for Outstanding Improvised Production (Speak No More)
 2018		B. Iden Payne Theater Award for Outstanding Improvised Technical Design (Death By Musical)
 2017		B. Iden Payne Theater Award for Outstanding Improvised Technical Design (How I Saved the World Over Summer Vacation)
-2017		Peggy Girshman Idea Grant, to help support a South-Central states science communicators conference, Co-PIs Juli Berwald, Marc Airhart ($2,400) 
+2017		Peggy Girshman Idea Grant, to help support a South-Central states science communicators conference, Co-PIs Juli Berwald, Marc Airhart ($2,400)
 
 ## Current Projects
 
