@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: CV
-templateClass: tmpl-about
+templateClass: tmpl-page
 eleventyNavigation:
   key: CV
   order: 5
@@ -251,3 +251,4 @@ Environment, and Risk Division (AEJMC ComSHER)
 Scientists
 2018		Technical Director for Out of Bounds Comedy Festival
 2016-		Building Connections: Improv for Autistic Youth at The Hideout Theatre
+
