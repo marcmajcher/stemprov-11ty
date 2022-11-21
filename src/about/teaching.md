@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.njk
-title: Current Offerings
+title: Book Me
 templateClass: tmpl-page
 eleventyNavigation:
-  key: Classes/Workshops
+  key: Book Me
   order: 2
 ---
 
