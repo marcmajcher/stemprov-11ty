@@ -34,6 +34,8 @@ Biological Sciences (Minor in Spanish), 2009
 
 ### Peer-Reviewed Journal Articles
 
+Bennett, N. Dudo, A., & Besley, J.C. (2022). The Form and Function of U.S.-based Science Communication Fellowship Programs: Interviews with Program Directors. International Journal of Science Education Part B, accepted.
+
 Bennett, N. Dudo, A., & Besley, J.C. (2022). Science Communication Fellowship Programs as Gatekeepers. Public Understanding of Science, 09636625221115958.
 
 Copple, J., Bennett, N., Dudo, A., Moon, W. K., Newman, T. P., Besley, J., ... & Volpe, C. (2020). Contribution of Training to Scientists’ Public Engagement Intentions: A Test of Indirect Relationships Using Parallel Multiple Mediation. Science Communication, 42(4), 508-537.
