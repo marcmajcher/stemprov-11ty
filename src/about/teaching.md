@@ -11,7 +11,8 @@ eleventyNavigation:
 
 ## [Fill out this form to book a workshop.](https://forms.gle/gHWuvoehX5dgwMdA6)
 Email me: nichole.lynn.bennett@gmail.com
-- I offer a variety of theatre-based workshops for STEM folx. See below for rates and descriptions of both my improv and Theatre of the Oppressed workshops. We can address a variety of objectives in these workshops, including:
+
+I offer a variety of theatre-based workshops for STEM folx. See below for rates and descriptions of both my improv and Theatre of the Oppressed workshops. We can address a variety of objectives in these workshops, including:
 - Accessing Creativity and Getting Out of Your Head
 - Our Struggles with Social Justice
 - Collaboration and “Yes And”
