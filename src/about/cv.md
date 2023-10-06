@@ -54,7 +54,7 @@ Bennett, N.,  Dudo, A., Yuan, S., & Besley, J. (2019). “Scientists, trainers, 
 
 Warren, D. L. & Bennett, N. (2012). “Niches.” In D. Gibson (Ed.) Oxford Bibliographies Online: Ecology. Oxford University Press.
 
-White Papers & Popular Articles
+### White Papers & Popular Articles
 
 Bennett, N., Dudo, A., and Besley, J. (2022). STEM graduate students’ perspectives on science communication and their sense of belonging in these spaces [White paper]. Center for Media Engagement. https://mediaengagement.org/research/stem-graduate-students-perspectives-on-science- communication
 
