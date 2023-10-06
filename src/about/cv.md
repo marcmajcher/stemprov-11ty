@@ -34,9 +34,13 @@ Biological Sciences (Minor in Spanish), 2009
 
 ### Peer-Reviewed Journal Articles
 
-Bennett, N. Dudo, A., & Besley, J.C. (2022). The Form and Function of U.S.-based Science Communication Fellowship Programs: Interviews with Program Directors. International Journal of Science Education Part B, accepted.
+Bennett, N., Terrell, R., Ravindran, T., Chen, V., & Dawson, K. (2023). A green moment to share: a theatrical laboratory to explore climate crisis possibilities within single moments. Arts, accepted.
 
-Bennett, N. Dudo, A., & Besley, J.C. (2022). Science Communication Fellowship Programs as Gatekeepers. Public Understanding of Science, 09636625221115958.
+Valdez-Ward, E., Ulrich, R. N., Bennett, N., Cat, L. A., Marcus, T., Menezes, S., ... & Treseder, K. K. (2023). ReclaimingSTEM: A healing-centered counterspace model for inclusive science communication and policy training. Frontiers in Communication, 8, 44.
+
+Bennett, N., Dudo, A., & Besley, J. C. (2022). Science communication fellowship programs as gatekeepers. Public Understanding of Science, 31(7), 940-956.
+
+Bennett, N., Dudo, A., & Besley, J. C. (2022). The form and function of US-based science communication fellowship programs: interviews with program directors. International Journal of Science Education, Part B, 1-15.
 
 Copple, J., Bennett, N., Dudo, A., Moon, W. K., Newman, T. P., Besley, J., ... & Volpe, C. (2020). Contribution of Training to Scientists’ Public Engagement Intentions: A Test of Indirect Relationships Using Parallel Multiple Mediation. Science Communication, 42(4), 508-537.
 
@@ -59,7 +63,8 @@ Fellowship Programs in North America [White paper]. Rita Allen Foundation. https
 
 
 ## AWARDS & HONORS
-
+2023		The Vortex Theatre’s Green New Theatre Symposium
+2023		Cohen New Works Festival: A Green Moment to Share
 2021		Roderick P. Hart Student Achievement Award, Moody College of
 Communication, The University of Texas at Austin, $1000
 2018		Austin Critic’s Table Award for Improvised Theater Production
@@ -104,7 +109,11 @@ tuitions
 2010		Ecology, Evolution, and Behavior Start-Up Grant, $2,000
 
 ## INVITED TALKS
-
+2023		ENFOLD: Science-Art Symposium, Burroughs Wellcome Fund, Durham,
+NC
+2023		Wonder Salon, Gulf Research Network, Virtual.
+2023		SciPEP Workshop Equipping Scientists to Communicate about Basic
+Research, Inclusivity
 2022		Planet Texas 2050 Resilience Roundtable Promoting & Empowering
 Youth as Leaders in Climate Justice Struggles, Moderator
 2021		Willingness to Engage Series Part One: Indirect Effects of Science
@@ -124,7 +133,20 @@ Counter-Narratives, Reclaiming STEM Conference
 2017-2019	Conference Founder and Organizer for SciComm South, Austin, TX
 
 ### Papers Presented
-
+2023		Science Communication “Pockets of Belonging”: Inviting in a Plurality of
+Science Identities, Association for Education in Journalism and Mass
+Communication, Washington D.C., Aug. 7.
+2023             You Should Have Seen This Coming: Interrupting Official Discourses on
+Ecological Degradation, Association for Theatre in Higher Education,
+Austin, TX, USA, Aug 5.
+2023		Performing Environmental Counter-narratives, Pedagogy and Theatre
+of the Oppressed Conference, Indianapolis, Indiana, USA, June 23.
+2023		Race-Evasive Ideology in Science Communication Fellowship Directors’
+Discourse, International Communication Association, Toronto, Canada,
+May, 27.
+2023		Science Communication Activities as Potential “Pockets of Belonging”
+for STEM Graduate Students, Public Communication of Science and
+Technology, Rotterdam, Netherlands, April, 13.
 2022		U.S.-based Science Communication Fellowship Programs: Form and
 Function. Association for Education in Journalism and Mass
 Communication, Detroit, MI, USA, August, 5.
@@ -143,7 +165,7 @@ Network, Virtual, May, 25.
 ComSciCon Houston, Rice University, February, 29.
 
 ### Panel Discussant
-
+2023		SciPEP 2023: New Insights for Communicating Basic Science, Virtual
 2021		Why do scientists engage the public in basic science?. SciPEP
 Communicating the Future: Engaging the Public in Basic Science,
 Virtual.
@@ -152,7 +174,11 @@ Island, September, 28.
 
 
 ## RESEARCH EXPERIENCE
-
+2023		Graduate Research Assistant: Numbers 4 Justice Lab
+(Critical Quantitative Racial Equity in STEM Education), The University
+of Texas at Austin
+2023		Graduate Research Assistant: Water Recovery, The Media, and
+Community Impact, The University of Texas at Austin
 2022		Graduate Research Assistant: Art-Science Collaborations Landscape
 Study, Center for Media Engagement, The University of Texas at Austin
 2021		Graduate Research Assistant for Stories of Ancient Resilience, Planet
@@ -182,6 +208,8 @@ Seminar), The University of Texas
 
 ### Teaching Assistant
 
+2023		International Advertising, The University of Texas
+2023		Entrepreneurial Communication, The University of Texas
 2019		Public Relations Techniques, The University of Texas
 2018		Advertising and Integrated Brand Promotion, The University of Texas
 2015		Scientific Inquiry Across the Disciplines, The University of Texas
@@ -191,7 +219,14 @@ Seminar), The University of Texas
 2010		Introductory Biology, The University of Texas
 
 ### Theatre Workshops
-
+2023		Building Community, Reclaiming STEM in the National Park Service,
+Virtual
+2023		ARTiculating SCIence, Texas A&M, College Station, Texas.
+2023		Theatre of the Oppressed: Exploring our Struggles with Social Justice in
+Science Communication, Public Communication of Science and
+Technology Pre-Conference, Rotterdam, Netherlands
+2023		Embodying Our Struggles with Environmental Justice Using Theatre of
+the Oppressed, Planet Texas 2050 Symposium
 2022		Theatre of the Oppressed for Health Equity, Dell Medical School
 2022		STEMprov: Improv for Science Communication, The University
 of Texas at Austin Career Engagement and Society for Advancing
@@ -223,18 +258,22 @@ Open-Department Faculty Hire in Computational Communication
 
 ### Conferences
 
-2022		Graduate Student Committee Member for Association for Education in
+2023		Inclusive SciComm Symposium Advisory Committee
+2022-2023	Graduate Student Committee Member for Association for Education in
 Journalism and Mass Communication Communicating Health, Science,
 Environment, and Risk Division (AEJMC ComSHER)
 
 ### Journals
 
+2023		Invited Manuscript Reviewer, Science Communication
+2023		Invited Manuscript Reviewer, BioScience
 2022 		Invited Manuscript Reviewer, Public Understanding of Science
 2022 		Invited Manuscript Reviewer, Journal of Science Communication
 2021 		Invited Manuscript Reviewer, Public Understanding of Science
 
 ## PROFESSIONAL AFFILIATIONS
 
+2023-		Pedagogy & Theatre of the Oppressed (PTO)
 2022- 	Association for Education in Journalism and Mass Communication
 (AEJMC)
 2022- 	National Communication Association (NCA)
@@ -246,11 +285,14 @@ Environment, and Risk Division (AEJMC ComSHER)
 
 ## COMMUNITY INVOLVEMENT/OUTREACH
 
-2022-		Board Member of ATX Science Communicators
+2023		National Academies of Engineering Extraordinary Impacts  / Alan Alda
+Center for Communicating Science on Society Symposium Content
+2022-		Street Forum ATX Mutual Aid
 2020-		Organizer/Facilitator with Undoing White Supremacy Austin
-2018-		Member of B. Iden Payne Theater Awards Council
 2018-		Founder, Facilitator, and Curriculum Developer for STEMprov: Improv for
 Scientists
+2022-2023	Board Member of ATX Science Communicators
+2018-2023	Member of B. Iden Payne Theater Awards Council
+2016-2019	Building Connections: Improv for Autistic Youth at The Hideout Theatre
 2018		Technical Director for Out of Bounds Comedy Festival
-2016-		Building Connections: Improv for Autistic Youth at The Hideout Theatre
 
