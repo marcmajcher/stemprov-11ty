@@ -9,7 +9,7 @@ eleventyNavigation:
 
 # Current Workshops
 
-*No public workshops currently running. More workshops coming December 2022.*
+*No public workshops currently running.*
 
 [Want to book me for a workshop?](http://stemprov.org/about/teaching/)
 
