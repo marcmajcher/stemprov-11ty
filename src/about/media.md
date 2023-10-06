@@ -6,7 +6,10 @@ eleventyNavigation:
   key: Media
   order: 4
 ---
-# Media Mentions
+# Media
+[Early Climate Career Network: Using Theater to Uncover Youth Climate Change Narratives](https://earlycareerclimate.wordpress.com/2023/07/25/using-theater-to-uncover-youth-climate-change-narratives/)
+
+[The Nature of Cities: Story.Telling. If you had a project from science or practice and wanted to make it a better story — one that could reach into new audiences — what would you do?](https://www.thenatureofcities.com/2023/07/31/story-telling-if-you-had-a-project-from-science-or-practice-and-wanted-to-make-it-a-better-story-one-that-could-reach-into-new-audiences-what-would-you-do/)
 
 [Performing Stories of Ancient Resilience](https://www.youtube.com/clip/Ugkx_ogKxA7BFKJ-XND3yXnWuXeTRLmdR3V4) lightning talk for [Planet Texas 2050](https://bridgingbarriers.utexas.edu/planet-texas-2050) 2022 Symposium
 
