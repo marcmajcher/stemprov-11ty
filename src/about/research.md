@@ -9,9 +9,9 @@ eleventyNavigation:
 
 # Upcoming Workshops
 
-[Inclusive SciComm](https://inclusivescicomm.org/): Using Theater to Uncover Youth Climate Change Narratives
+Oct 2023: [Inclusive SciComm](https://inclusivescicomm.org/): Using Theater to Uncover Youth Climate Change Narratives
 
-Theatre of the Oppressed for Trans-Inclusive Nursing Practices
+Nov 2023: Theatre of the Oppressed for Trans-Inclusive Nursing Practices
 
 *No public workshops currently running.*
 
