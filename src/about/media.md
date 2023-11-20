@@ -11,6 +11,10 @@ eleventyNavigation:
 
 [The Nature of Cities: Story. Telling. If you had a project from science or practice and wanted to make it a better story — one that could reach into new audiences — what would you do?](https://www.thenatureofcities.com/2023/07/31/story-telling-if-you-had-a-project-from-science-or-practice-and-wanted-to-make-it-a-better-story-one-that-could-reach-into-new-audiences-what-would-you-do/)
 
+[Beyond the Facts: Science Communication minor helps Moody students tell today's most pressing stories](https://moody.utexas.edu/news/beyond-the-facts)
+
+[Comic-Examining Access To The Rich Resources Of Science Communication Fellowship Programs](https://www.stonybrook.edu/commcms/alda-center/thelink/posts/nic_bennet_fellowships.php)
+
 [Nerd Nite Talk: Performing Environmental Counter-narratives](https://www.youtube.com/watch?v=ITBIBOrQack&ab_channel=NerdNiteAustin)
 
 [Performing Stories of Ancient Resilience](https://www.youtube.com/clip/Ugkx_ogKxA7BFKJ-XND3yXnWuXeTRLmdR3V4) lightning talk for [Planet Texas 2050](https://bridgingbarriers.utexas.edu/planet-texas-2050) 2022 Symposium
