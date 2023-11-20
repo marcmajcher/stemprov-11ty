@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.njk
-title: CV
+title: Research
 templateClass: tmpl-page
 eleventyNavigation:
-  key: CV
+  key: Research
   order: 5
 ---
 
@@ -14,7 +14,7 @@ nichole.lynn.bennett@utexas.edu
 Stan Richards School of Advertising & Public Relations
 Moody College of Communication
 The University of Texas at Austin
-Belo Center for New Media
+G. B. Dealey Center for New Media
 300 W. Dean Keeton (A1200)
 Austin, TX 78712
 
