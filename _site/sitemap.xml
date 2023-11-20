@@ -72,17 +72,17 @@
   </url>
   
   <url>
-    <loc>https://stemprov.org/tags/second-tag/</loc>
-    <lastmod>2023-10-27</lastmod>
-  </url>
-  
-  <url>
     <loc>https://stemprov.org/tags/number-2/</loc>
     <lastmod>2023-10-27</lastmod>
   </url>
   
   <url>
-    <loc>https://stemprov.org/about/contact/</loc>
+    <loc>https://stemprov.org/tags/second-tag/</loc>
+    <lastmod>2023-10-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stemprov.org/contact/</loc>
     <lastmod>2023-11-20</lastmod>
   </url>
 </urlset>

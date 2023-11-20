@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>This is my second post.</title>
-    <meta name="description" content="This is a post on My Blog about leveraging agile frameworks.">
+    <title>Contact</title>
+    <meta name="description" content="Because science and creativity go hand in hand.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -57,15 +57,35 @@
       </div>
     </nav>
 
-    <main class="tmpl-post">
-      <h1>This is my second post.</h1>
+    <main>
+      <h1>Contact</h1>
 
-<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
-<h2 id="section-header">Section Header <a class="direct-link" href="#section-header">#</a></h2>
-<p><a href="/posts/firstpost/">First post</a><br>
-<a href="/posts/thirdpost/">Third post</a></p>
-<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
-<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+<h2 id="layout%3A-layouts%2Fpost.njktitle%3A-contacttemplateclass%3A-tmpl-posteleventynavigation%3Akey%3A-contactorder%3A-5">layout: layouts/post.njk<br>
+title: Contact<br>
+templateClass: tmpl-post<br>
+eleventyNavigation:<br>
+key: Contact<br>
+order: 5 <a class="direct-link" href="#layout%3A-layouts%2Fpost.njktitle%3A-contacttemplateclass%3A-tmpl-posteleventynavigation%3Akey%3A-contactorder%3A-5">#</a></h2>
+<form action="https://getform.io/f/efb2823d-3e88-49a0-9659-48c184a4267f" method="POST">
+    <input type="text" name="name">
+    <input type="email" name="email">
+    <input type="text" name="message">
+    <!-- add hidden Honeypot input to prevent spams -->
+    <input type="hidden" name="_gotcha" style="display:none !important">
+    <!-- checkbox handle -->
+    <input type="checkbox" name="subscribe" value="yes" checked>
+    <input type="hidden" name="subscribe" value="no">
+    <!-- radio button handle -->
+    <input type="radio" name="gender" value="male" checked>
+    <input type="radio" name="gender" value="female">
+    <input type="radio" name="gender" value="other">
+    <!-- select field handle -->
+    <select name="work-experience">
+        <option value="one-year">0-1 years</option>
+        <option value="one-five-years">1-5 years</option>
+    </select>
+    <button type="submit">Send</button>
+</form>
 
 
 
@@ -79,6 +99,6 @@
       </div>
     </footer>
 
-    <!-- Current page: /posts/secondpost/ -->
+    <!-- Current page: /contact/ -->
   </body>
 </html>
