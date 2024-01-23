@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>STEMprov</title>
+    <title>About</title>
     <meta name="description" content="Because science and creativity go hand in hand.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
@@ -24,7 +24,7 @@
             <li class="nav-item">
               <a href="/about/teaching/">Book Me</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item nav-item-active">
               <a href="/about/newsletter/">About</a>
             </li>
             <li class="nav-item">
@@ -44,7 +44,7 @@
             <li class="nav-item">
               <a href="/about/teaching/">Book Me</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item nav-item-active">
               <a href="/about/newsletter/">About</a>
             </li>
             <li class="nav-item">
@@ -63,47 +63,21 @@
       </div>
     </nav>
 
-    <main class="tmpl-home">
-      
-
-<h1>Archive</h1>
-
-
-<ol reversed class="postlist" style="counter-reset: start-from 5">
-
-  <li class="postlist-item">
-    <a href="/posts/fourthpost/" class="postlist-link">This is my fourth post.</a>
-    <time class="postlist-date" datetime="2018-09-30">30 Sep 2018</time>
-    
-      <a href="/tags/second-tag/" class="post-tag">second-tag</a>
-  </li>
-
-  <li class="postlist-item">
-    <a href="/posts/thirdpost/" class="postlist-link">This is my third post.</a>
-    <time class="postlist-date" datetime="2018-08-24">24 Aug 2018</time>
-    
-      <a href="/tags/second-tag/" class="post-tag">second-tag</a>
-  </li>
-
-  <li class="postlist-item">
-    <a href="/posts/secondpost/" class="postlist-link">This is my second post.</a>
-    <time class="postlist-date" datetime="2018-07-04">04 Jul 2018</time>
-    
-      <a href="/tags/number-2/" class="post-tag">number-2</a>
-  </li>
-
-  <li class="postlist-item">
-    <a href="/posts/firstpost/" class="postlist-link">This is my first post.</a>
-    <time class="postlist-date" datetime="2018-05-01">01 May 2018</time>
-    
-      <a href="/tags/another-tag/" class="post-tag">another-tag</a>
-  </li>
-
-</ol>
-
-  
+    <main class="tmpl-about">
+      <section class="container page">
+  <h1 class="header">About</h1>
+  <div id="substack-feed-embed"></div>
 
 
+<script>
+  window.SubstackFeedWidget = {
+    substackUrl: "nicbennett.substack.com",
+    posts: 3
+  };
+</script>
+<script src="https://substackapi.com/embeds/feed.js" async></script>
+
+</section>
 
     </main>
 
@@ -115,6 +89,6 @@
       </div>
     </footer>
 
-    <!-- Current page: /posts/ -->
+    <!-- Current page: /about/newsletter/ -->
   </body>
 </html>
