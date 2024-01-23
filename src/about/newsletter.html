@@ -1,0 +1,18 @@
+---
+layout: layouts/page.njk
+title: About
+templateClass: tmpl-about
+eleventyNavigation:
+  key: About
+  order: 2
+---
+<div id="substack-feed-embed"></div>
+
+
+<script>
+  window.SubstackFeedWidget = {
+    substackUrl: "nicbennett.substack.com",
+    posts: 3
+  };
+</script>
+<script src="https://substackapi.com/embeds/feed.js" async></script>
