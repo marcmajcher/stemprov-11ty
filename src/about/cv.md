@@ -4,7 +4,7 @@ title: Research
 templateClass: tmpl-page
 eleventyNavigation:
   key: Research
-  order: 5
+  order: 6
 ---
 
 # NIC BENNETT
@@ -33,6 +33,8 @@ Biological Sciences (Minor in Spanish), 2009
 ## PUBLICATIONS
 
 ### Peer-Reviewed Journal Articles
+
+Bennett, N., Dudo, A., Besley, J. C., & Irizarry, Y. (2024). Race-Evasive Ideology in U.S.-based Science Communication Fellowship Director Discourse. Journal of Science Communication, accepted.
 
 Bennett, N., Terrell, R., Ravindran, T., Chen, V., & Dawson, K. (2023). A green moment to share: a theatrical laboratory to explore climate crisis possibilities within single moments. Arts, accepted.
 
@@ -109,6 +111,11 @@ tuitions
 2010		Ecology, Evolution, and Behavior Start-Up Grant, $2,000
 
 ## INVITED TALKS
+
+2024		Participatory Approaches for Teaching Science Communication,
+Network for Public Communication of Science and Technology, Virtual.
+2024		Science + Art Collaborations: Engaging Communities in the Gulf, Gulf of
+Mexico Conference, Tampa, FL
 2023		ENFOLD: Science-Art Symposium, Burroughs Wellcome Fund, Durham,
 NC
 2023		Wonder Salon, Gulf Research Network, Virtual.
@@ -165,6 +172,7 @@ Network, Virtual, May, 25.
 ComSciCon Houston, Rice University, February, 29.
 
 ### Panel Discussant
+2024		Storytelling and Community, Gulf of Mexico Conference, Tampa, FL.
 2023		SciPEP 2023: New Insights for Communicating Basic Science, Virtual
 2021		Why do scientists engage the public in basic science?. SciPEP
 Communicating the Future: Engaging the Public in Basic Science,
@@ -174,6 +182,8 @@ Island, September, 28.
 
 
 ## RESEARCH EXPERIENCE
+2024-		Postdoctoral Fellow: Science Communication Identities Project, Knight
+Center for Environmental Journalism, Michigan State University.
 2023		Graduate Research Assistant: Numbers 4 Justice Lab
 (Critical Quantitative Racial Equity in STEM Education), The University
 of Texas at Austin
@@ -219,6 +229,10 @@ Seminar), The University of Texas
 2010		Introductory Biology, The University of Texas
 
 ### Theatre Workshops
+2024		Guest Facilitator Theatre of the Oppressed for Trauma-Informed Care,
+Dell Medical School UT Austin
+2023		Guest Facilitator Theatre of the Oppressed for Gender-Affirming
+Care for Nursing Students, UT Austin
 2023		Building Community, Reclaiming STEM in the National Park Service,
 Virtual
 2023		ARTiculating SCIence, Texas A&M, College Station, Texas.
@@ -240,7 +254,7 @@ University of Rhode Island
 
 ### Data Science Workshops
 
-2018-2021	Machine Learning and Python Courses for Biologists, Transmitting
+2018-2024	Machine Learning and Python Courses for Biologists, Transmitting
 Science, Heraklion, Crete, Virtual
 2019		Python Machine Learning in Biology, The University of Glasgow,
 Glasgow, UK
@@ -265,8 +279,8 @@ Environment, and Risk Division (AEJMC ComSHER)
 
 ### Journals
 
-2023		Invited Manuscript Reviewer, Science Communication
-2023		Invited Manuscript Reviewer, BioScience
+2023-		Invited Manuscript Reviewer, Science Communication
+2023-		Invited Manuscript Reviewer, BioScience
 2022 		Invited Manuscript Reviewer, Public Understanding of Science
 2022 		Invited Manuscript Reviewer, Journal of Science Communication
 2021 		Invited Manuscript Reviewer, Public Understanding of Science
@@ -285,6 +299,9 @@ Environment, and Risk Division (AEJMC ComSHER)
 
 ## COMMUNITY INVOLVEMENT/OUTREACH
 
+2024-		Board Member of Reclaiming STEM Board Institute
+2024-		Communications Lead, Action Lead for Turnout Tuesdays (Recruitment)
+with Showing Up for Racial Justice
 2023		National Academies of Engineering Extraordinary Impacts  / Alan Alda
 Center for Communicating Science on Society Symposium Content
 2022-		Street Forum ATX Mutual Aid

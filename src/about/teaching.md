@@ -4,7 +4,7 @@ title: Book Me
 templateClass: tmpl-page
 eleventyNavigation:
   key: Book Me
-  order: 2
+  order: 3
 ---
 
 # Want to Book a Workshop?
