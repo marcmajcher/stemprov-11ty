@@ -8,21 +8,20 @@ eleventyNavigation:
 ---
 
 # NIC BENNETT
-nichole.lynn.bennett@utexas.edu
+nichole.lynn.bennett@gmail.com
 1-803-553-3996
 
-Stan Richards School of Advertising & Public Relations
-Moody College of Communication
-The University of Texas at Austin
-G. B. Dealey Center for New Media
-300 W. Dean Keeton (A1200)
-Austin, TX 78712
-
+School of Journalism
+College of Communication Arts and Sciences
+Michigan State University
+404 Wilson Road
+East Lansing, MI 48824
+USA
 
 ## EDUCATION
 
 Ph.D.		The University of Texas at Austin
-Advertising and Public Relations (ABD), expected May 2024
+Advertising and Public Relations (ABD), 2024
 
 M.A.		The University of Texas at Austin
 Ecology, Evolution, and Behavior, 2015
@@ -34,9 +33,13 @@ Biological Sciences (Minor in Spanish), 2009
 
 ### Peer-Reviewed Journal Articles
 
-Bennett, N., Dudo, A., Besley, J. C., & Irizarry, Y. (2024). Race-Evasive Ideology in U.S.-based Science Communication Fellowship Director Discourse. Journal of Science Communication, accepted.
+Bennett, N., Dudo, A., & Besley, J.C. (2024). Science Communication Spaces as “Pockets of Belonging”: Inviting in a Plurality of Science Identities for Scientists-in-Training. Science Communication, accepted.
 
-Bennett, N., Terrell, R., Ravindran, T., Chen, V., & Dawson, K. (2023). A green moment to share: a theatrical laboratory to explore climate crisis possibilities within single moments. Arts, accepted.
+Valdez-Ward, E.,  Ulrich, R.N.,  Martinez, E., Bennett, N., Rodrigues, L., Mattheis, A., Treseder, K.K., Takahashi, B., Menezes, S. (2024). Science communicators from marginalized backgrounds challenge STEM cultural norms to promote community belonging. Journal of Science Communication, accepted.
+
+Bennett, N., Terrell, R., Ravindran, T., Chen, V., & Dawson, K. (2024). A green moment to share: a theatrical laboratory to explore climate crisis possibilities within single moments. Arts, accepted.
+
+Bennett, N., Dudo, A., Besley, J. C., & Irizarry, Y. (2024). Race-Evasive Ideology in U.S.-based Science Communication Fellowship Director Discourse. Journal of Science Communication, 23, no. 1 (2024): A06.
 
 Valdez-Ward, E., Ulrich, R. N., Bennett, N., Cat, L. A., Marcus, T., Menezes, S., ... & Treseder, K. K. (2023). ReclaimingSTEM: A healing-centered counterspace model for inclusive science communication and policy training. Frontiers in Communication, 8, 44.
 
@@ -56,12 +59,20 @@ Bennett, N.,  Dudo, A., Yuan, S., & Besley, J. (2019). “Scientists, trainers, 
 
 Warren, D. L. & Bennett, N. (2012). “Niches.” In D. Gibson (Ed.) Oxford Bibliographies Online: Ecology. Oxford University Press.
 
-### White Papers & Popular Articles
+### White Papers
+
+Bennett, N. & Dudo, A. (2024). The landscape of art-science collaboration programs. Center for Media Engagement. https://mediaengagement.org/research/landscape-of-art-science-collaboration-programs/.
 
 Bennett, N., Dudo, A., and Besley, J. (2022). STEM graduate students’ perspectives on science communication and their sense of belonging in these spaces [White paper]. Center for Media Engagement. https://mediaengagement.org/research/stem-graduate-students-perspectives-on-science- communication
 
 Dudo, A., Besley, J., & Bennett, N. (2020) Landscape of Science Communication
 Fellowship Programs in North America [White paper]. Rita Allen Foundation. https://ritaallen.org/app/uploads/2020/06/SciEng-Fellowships-Report.pdf
+
+### Comics
+
+Bennett, N. (2023). Findings From A Landscape Study Of Art-Science Collaboration Programs: Told With Bunnies. [Comic] The Link. https://aldacenter.org/commcms/alda-center/thelink/posts/art_science_by_bunnies.php
+
+Bennett, N. (2023). Examining Access To The Rich Resources Of Science Communication Fellowships Programs. [Comic] The Link. https://www.stonybrook.edu/commcms/alda-center/thelink/posts/nic_bennet_fellowships.php.
 
 
 ## AWARDS & HONORS
@@ -113,7 +124,8 @@ tuitions
 ## INVITED TALKS
 
 2024		Participatory Approaches for Teaching Science Communication,
-Network for Public Communication of Science and Technology, Virtual.
+Network for Public Communication of Science and Technology, Virtual
+2024		A 3-D View of the SciArt Landscape, Science Talk, Portland, OR
 2024		Science + Art Collaborations: Engaging Communities in the Gulf, Gulf of
 Mexico Conference, Tampa, FL
 2023		ENFOLD: Science-Art Symposium, Burroughs Wellcome Fund, Durham,
@@ -180,6 +192,12 @@ Virtual.
 2019		Inclusive Pedagogy Panel, Inclusive SciComm, University of Rhode
 Island, September, 28.
 
+### Artistic Presentations
+
+2024		Chiasm Cabaret: Science Burlesque and Comedy Show at Science Talk,
+Portland, OR
+2023		The Vortex Theatre’s Green New Theatre Symposium
+2023		Cohen New Works Festival: A Green Moment to Share
 
 ## RESEARCH EXPERIENCE
 2024-		Postdoctoral Fellow: Science Communication Identities Project, Knight
@@ -272,6 +290,9 @@ Open-Department Faculty Hire in Computational Communication
 
 ### Conferences
 
+2024		Reviewer for Association for Education in Journalism and Mass
+Communication, Communicating Health, Science, Environment, and
+Risk Division (AEJMC ComSHER)
 2023		Inclusive SciComm Symposium Advisory Committee
 2022-2023	Graduate Student Committee Member for Association for Education in
 Journalism and Mass Communication Communicating Health, Science,
@@ -279,6 +300,7 @@ Environment, and Risk Division (AEJMC ComSHER)
 
 ### Journals
 
+2024-		Invited Manuscript Reviewer, Frontiers in Communication
 2023-		Invited Manuscript Reviewer, Science Communication
 2023-		Invited Manuscript Reviewer, BioScience
 2022 		Invited Manuscript Reviewer, Public Understanding of Science
