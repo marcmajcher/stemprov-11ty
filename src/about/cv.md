@@ -21,7 +21,7 @@ USA
 ## EDUCATION
 
 Ph.D.		The University of Texas at Austin
-Advertising and Public Relations (ABD), 2024
+Advertising and Public Relations, 2024
 
 M.A.		The University of Texas at Austin
 Ecology, Evolution, and Behavior, 2015
@@ -33,11 +33,11 @@ Biological Sciences (Minor in Spanish), 2009
 
 ### Peer-Reviewed Journal Articles
 
-Bennett, N., Dudo, A., & Besley, J.C. (2024). Science Communication Spaces as “Pockets of Belonging”: Inviting in a Plurality of Science Identities for Scientists-in-Training. Science Communication, accepted.
+Bennett, N., Dudo, A., & Besley, J. (2024). Science Communication Spaces as “Pockets of Belonging”: Inviting in a Plurality of Science Identities for Scientists-in-Training. Science Communication, 0(0).
 
-Valdez-Ward, E.,  Ulrich, R.N.,  Martinez, E., Bennett, N., Rodrigues, L., Mattheis, A., Treseder, K.K., Takahashi, B., Menezes, S. (2024). Science communicators from marginalized backgrounds challenge STEM cultural norms to promote community belonging. Journal of Science Communication, accepted.
+Valdez-Ward, E., Ulrich, R. N., Bennett, N., Martinez-Maldonado, E., Mattheis, A., Treseder, K. K., ... & Menezes, S. (2024). Science communicators from marginalized backgrounds challenge STEM cultural norms to promote community belonging. Journal of Science Communication, 23(4), A01.
 
-Bennett, N., Terrell, R., Ravindran, T., Chen, V., & Dawson, K. (2024). A green moment to share: a theatrical laboratory to explore climate crisis possibilities within single moments. Arts, accepted.
+Bennett N., Alcantar V., Ravindran T., Chen V., Terrell R., Dawson K. (2024). A Green Moment to Share: A Theatrical Laboratory to Explore Climate Crisis Possibilities within Single Moments. Arts, 13(4):120.
 
 Bennett, N., Dudo, A., Besley, J. C., & Irizarry, Y. (2024). Race-Evasive Ideology in U.S.-based Science Communication Fellowship Director Discourse. Journal of Science Communication, 23, no. 1 (2024): A06.
 
@@ -122,7 +122,8 @@ tuitions
 2010		Ecology, Evolution, and Behavior Start-Up Grant, $2,000
 
 ## INVITED TALKS
-
+2024		Webinar: National Academy of Engineering Report: “Impacts of
+National Science Foundation Support Engineering Research on Society”
 2024		Participatory Approaches for Teaching Science Communication,
 Network for Public Communication of Science and Technology, Virtual
 2024		A 3-D View of the SciArt Landscape, Science Talk, Portland, OR
@@ -152,6 +153,10 @@ Counter-Narratives, Reclaiming STEM Conference
 2017-2019	Conference Founder and Organizer for SciComm South, Austin, TX
 
 ### Papers Presented
+2024		Examining Scientists-in-Training Conceptualizations of Science
+Communication: Draw-and-Write Methods through the Lens of the
+Circuit of Culture, Association for Education in Journalism and Mass
+Communication, Philadelphia, PA, USA, Aug 7.
 2023		Science Communication “Pockets of Belonging”: Inviting in a Plurality of
 Science Identities, Association for Education in Journalism and Mass
 Communication, Washington D.C., Aug. 7.
@@ -285,11 +290,19 @@ Statistics and R Course, Center for Computational Biology and Bioinformatics, Th
 
 ### Department & University
 
+2024		Michigan State University Postdoctoral Association Steering Committee
+Communications and Digital Presence Committee
 2021 		Graduate Student Search Committee Member for Open-Rank,
 Open-Department Faculty Hire in Computational Communication
 
 ### Conferences
 
+2024		Secretary for Association for Education in Journalism and Mass
+Communication, Communicating Health, Science, Environment, and
+Risk Division (AEJMC ComSHER)
+2024		Discussant and Moderator for Association for Education in Journalism
+and Mass Communication, Critical Cultural Studies and Communicating
+Health, Science, Environment, and Risk Divisions
 2024		Reviewer for Association for Education in Journalism and Mass
 Communication, Communicating Health, Science, Environment, and
 Risk Division (AEJMC ComSHER)
@@ -300,6 +313,7 @@ Environment, and Risk Division (AEJMC ComSHER)
 
 ### Journals
 
+2024-		Invited Manuscript Reviewer, Journalism Studies
 2024-		Invited Manuscript Reviewer, Frontiers in Communication
 2023-		Invited Manuscript Reviewer, Science Communication
 2023-		Invited Manuscript Reviewer, BioScience
@@ -309,6 +323,8 @@ Environment, and Risk Division (AEJMC ComSHER)
 
 ## PROFESSIONAL AFFILIATIONS
 
+2024-		Society of Environmental Journalists
+2024-		Othering & Belonging Institute’s Democracy & Belonging Forum
 2023-		Pedagogy & Theatre of the Oppressed (PTO)
 2022- 	Association for Education in Journalism and Mass Communication
 (AEJMC)
@@ -322,8 +338,7 @@ Environment, and Risk Division (AEJMC ComSHER)
 ## COMMUNITY INVOLVEMENT/OUTREACH
 
 2024-		Board Member of Reclaiming STEM Board Institute
-2024-		Communications Lead, Action Lead for Turnout Tuesdays (Recruitment)
-with Showing Up for Racial Justice
+2024-		Showing Up for Racial Justice Member Leader
 2023		National Academies of Engineering Extraordinary Impacts  / Alan Alda
 Center for Communicating Science on Society Symposium Content
 2022-		Street Forum ATX Mutual Aid
