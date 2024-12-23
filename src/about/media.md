@@ -8,6 +8,16 @@ eleventyNavigation:
 ---
 # Media
 
+[Whimsy. Is there a role for laughter, subversive curve balls, ironic romance and “oh wow that’s cool” moments in the mainstreaming of knowledge and action in sustainability, climate change, and biodiversity?](https://www.thenatureofcities.com/2024/11/15/whimsy-is-there-a-role-for-laughter-subversive-curve-balls-ironic-romance-and-oh-wow-thats-cool-moments-in-the-mainstreaming-of-knowledge-and-action-in-sustainability-cl/)
+
+[Instituto Nacional de Comunicação Pública da Ciência e Tecnologia Divulgação Científica - Identidades científicas em cientistas em formação](https://www.youtube.com/watch?v=ko_yHp6-JCA&ab_channel=INCT-CPCTDivulga%C3%A7%C3%A3oCient%C3%ADfica)
+
+[CIMMYT Catalysts of Change - Leaders in Science](https://www.youtube.com/watch?v=IAoFWnCplxI&ab_channel=CIMMYTWebCast)
+
+[SCIP Workshop Empowers Minority Scientists with Inclusive Science Communication Skills](https://knightcenter.jrn.msu.edu/2024/07/26/scip-workshop-empowers-minority-scientists-with-inclusive-science-communication-skills/)
+
+[Impacts of National Science Foundation Engineering Research Support on Society: Webinar](https://www.youtube.com/watch?v=l2yC10_Vyf4&ab_channel=NationalAcademyofEngineering)
+
 [Findings From A Landscape Study Of Art-Science Collaboration Programs: Told With Bunnies](https://aldacenter.org/commcms/alda-center/thelink/posts/art_science_by_bunnies.php)
 
 [Participatory approaches to teaching science communication-PCST Teaching Forum Webinar](https://www.youtube.com/watch?v=fI6u_R9ckks&ab_channel=PCSTNetwork)

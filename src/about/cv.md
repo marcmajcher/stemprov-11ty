@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.njk
-title: Research
+title: CV
 templateClass: tmpl-page
 eleventyNavigation:
-  key: Research
+  key: CV
   order: 6
 ---
 
@@ -32,6 +32,8 @@ Biological Sciences (Minor in Spanish), 2009
 ## PUBLICATIONS
 
 ### Peer-Reviewed Journal Articles
+
+Shin, S.Y., Bennett, N., Amiden dos Santos, I., & Takahashi, B. (submitted). Why Identity Matters in Science Communication. Public Understanding of Science.
 
 Bennett, N., Dudo, A., & Besley, J. (2024). Science Communication Spaces as “Pockets of Belonging”: Inviting in a Plurality of Science Identities for Scientists-in-Training. Science Communication, 0(0).
 
@@ -205,6 +207,7 @@ Portland, OR
 2023		Cohen New Works Festival: A Green Moment to Share
 
 ## RESEARCH EXPERIENCE
+
 2024-		Postdoctoral Fellow: Science Communication Identities Project, Knight
 Center for Environmental Journalism, Michigan State University.
 2023		Graduate Research Assistant: Numbers 4 Justice Lab
@@ -313,6 +316,7 @@ Environment, and Risk Division (AEJMC ComSHER)
 
 ### Journals
 
+2024-		International Journal of Science Communication Pt. B
 2024-		Invited Manuscript Reviewer, Journalism Studies
 2024-		Invited Manuscript Reviewer, Frontiers in Communication
 2023-		Invited Manuscript Reviewer, Science Communication
@@ -337,8 +341,11 @@ Environment, and Risk Division (AEJMC ComSHER)
 
 ## COMMUNITY INVOLVEMENT/OUTREACH
 
+2024		YWCA Madison Racial Justice Summit Presenter: Live, Laugh, Fight Like
+Hell: The Why’s and How’s of Organizing in White Communities
 2024-		Board Member of Reclaiming STEM Board Institute
-2024-		Showing Up for Racial Justice Member Leader
+2024-		Showing Up for Racial Justice Recruitment and Shared-Interest
+Storytelling Leader
 2023		National Academies of Engineering Extraordinary Impacts  / Alan Alda
 Center for Communicating Science on Society Symposium Content
 2022-		Street Forum ATX Mutual Aid
