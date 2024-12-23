@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: Research
 templateClass: tmpl-page
 eleventyNavigation:
-  key: Offerings
+  key: Research
   order: 4
 ---
 
