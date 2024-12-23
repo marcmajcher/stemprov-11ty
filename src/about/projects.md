@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.njk
-title: Research
+title: Projects
 templateClass: tmpl-page
 eleventyNavigation:
-  key: Research
+  key: Projects
   order: 4
 ---
 
