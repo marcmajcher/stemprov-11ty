@@ -45,12 +45,12 @@ Many organizations bring people together without creating the conditions for tru
 - [Scicomm Identities Project]("scip")
 - [STEMprov Improv for Science & Technology]("stemprov")
 
-
 **Could this help your organization?**
 
 If you're planning a department retreat, conference workshop, or team-building experience, let's talk about how we can tailor one to your goals.
 
 [**Get in touch**](mailto:nic.bennett.scicomm@gmail.com)
+[**Learn more →**]("casestudies")
 
 # Design Learning That Moves People
 ### Workshops people remember—and actually use.
@@ -77,6 +77,7 @@ Whether the topic is science communication, leadership, collaboration, or public
 If you're planning a department retreat, conference workshop, or team-building experience, let's talk about how we can tailor one to your goals.
 
 [**Get in touch**](mailto:nic.bennett.scicomm@gmail.com)
+[**Learn more →**]("casestudies")
 
 # Develop Leaders Who Build Change
 ### Grow leadership—not just participation.
@@ -98,11 +99,13 @@ I help organizations develop leadership practices, team structures, and organizi
 - [Science in Solidarity]("sis")
 - [Reimagining Climate Futures Through Participatory Theatre]("greenmoment")
 - [Developing Health Equity Leaders Through Embodied Learning]("dellmedto")
+
 **Could this help your organization?**
 
 If you're planning a department retreat, conference workshop, or team-building experience, let's talk about how we can tailor one to your goals.
 
 [**Get in touch**](mailto:nic.bennett.scicomm@gmail.com)
+[**Learn more →**]("casestudies")
 # Let's build something together
 
 Every organization has different goals, challenges, and constraints. Whether you need someone to facilitate a retreat, design an engaging learning experience, develop emerging leaders, or help your team navigate change, I'd love to explore how I can help.
