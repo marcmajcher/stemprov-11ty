@@ -132,7 +132,7 @@ Every organization has different goals, challenges, and constraints. Whether you
 - Ongoing consulting
 
 **Interested in working together?**
-**Email me at nic.bennett.scicomm@gmail.com** to schedule a free 30-minute consultation.
+Email me at nic.bennett.scicomm@gmail.com to schedule a free 30-minute consultation.
 -----
 
 
