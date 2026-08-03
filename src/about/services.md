@@ -27,21 +27,6 @@ My work brings together **facilitation, learning design, science communication, 
 
 [Schedule a Conversation](mailto:nic.bennett.scicomm@gmail.com)
 
-#### **I'm trusted by**
-**Universities**
-- Michigan State University
-- University of Texas at Austin
-- Dell Medical School
-**Scientific Organizations**
-- American Association for the Advancement of Science
-- PCST Network
-- Reclaiming STEM Institute
-- National Academies of Engineering
-- Alan Alda Center for Communicating Science
-**Community & Civic Organizations**
-- Showing Up for Racial Justice (SURJ)
-- Climate Change Theatre Action
-
 # Build Trust, Belonging & Collaborative Culture
 ### Create teams that collaborate across differences.
 Many organizations bring people together without creating the conditions for trust, curiosity, or shared ownership. I design participatory experiences where people can rehearse the kinds of collaboration, leadership, and communities they want to create.
