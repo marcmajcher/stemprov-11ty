@@ -45,6 +45,7 @@ Many organizations bring people together without creating the conditions for tru
 - [Scicomm Identities Project]("scip")
 - [STEMprov Improv for Science & Technology]("stemprov")
 
+
 **Could this help your organization?**
 
 If you're planning a department retreat, conference workshop, or team-building experience, let's talk about how we can tailor one to your goals.
