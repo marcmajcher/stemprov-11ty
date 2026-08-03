@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Speaking
-templateClass: tmpl-about
+templateClass: tmpl-page
 eleventyNavigation:
   key: Speaking
   order: 3
