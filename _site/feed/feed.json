@@ -1,9 +1,9 @@
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": "STEMprov",
+  "title": "Nic Bennett",
   "home_page_url": "https://stemprov.org/",
   "feed_url": "https://stemprov.org/feed/feed.json",
-  "description": "Because science and creativity go hand in hand.",
+  "description": "We build a new world by practicing it together",
   "author": {
     "name": "Nic Bennett",
     "url": "https://stemprov.org/about-me/"

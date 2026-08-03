@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>STEMprov</title>
-	<subtitle>Because science and creativity go hand in hand.</subtitle>
+	<title>Nic Bennett</title>
+	<subtitle>We build a new world by practicing it together</subtitle>
 	
 	<link href="https://stemprov.org/feed/feed.xml" rel="self"/>
 	<link href="https://stemprov.org/"/>
@@ -9,7 +9,7 @@
 	<id>https://stemprov.org/</id>
 	<author>
 		<name>Nic Bennett</name>
-		<email>nichole.lynn.bennett@gmail.com</email>
+		<email>nic.bennett.scicomm@gmail.com</email>
 	</author>
 	
 	<entry>

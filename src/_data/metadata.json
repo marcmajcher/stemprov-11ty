@@ -1,9 +1,9 @@
 {
-  "title": "STEMprov",
+  "title": "Nic Bennett",
   "url": "https://stemprov.org/",
-  "description": "Because science and creativity go hand in hand.",
+  "description": "We build a new world by practicing it together",
   "feed": {
-    "subtitle": "Because science and creativity go hand in hand.",
+    "subtitle": "We build a new world by practicing it together",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://stemprov.org/"
@@ -14,7 +14,7 @@
   },
   "author": {
     "name": "Nic Bennett",
-    "email": "nichole.lynn.bennett@gmail.com",
+    "email": "nic.bennett.scicomm@gmail.com",
     "url": "https://stemprov.org/about-me/"
   }
 }
