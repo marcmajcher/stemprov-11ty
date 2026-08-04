@@ -1,9 +1,7 @@
 ---
 title: Designing Research-Informed Science Communication for the National Academy of Engineering
-layout: layouts/project.njk
+layout: layouts/page.njk
 ---
-
-# Designing Research-Informed Science Communication for the National Academy of Engineering
 
 ### Translating research into engaging educational media that broadens participation in engineering.
 
@@ -142,6 +140,6 @@ Whether you're translating research into educational media, designing audience-c
 
 ### Continue exploring
 
-← AAAS Member Learning Hub
+← [AAAS Member Learning Hub](/about/projects/aaas)
 
-SciComm Identities Project →
+[SciComm Identities Project](/about/projects/scip) →

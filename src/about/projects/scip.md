@@ -1,9 +1,7 @@
 ---
 title: SciComm Identities Project
-layout: layouts/project.njk
+layout: layouts/page.njk
 ---
-
-# SciComm Identities Project
 
 ### Reimagining science communication training by helping scientists communicate with authenticity, confidence, and cultural responsiveness.
 
@@ -111,14 +109,14 @@ More personally, this project transformed how I approach facilitation. It reinfo
 
 Whether you're redesigning professional development, creating a fellowship, or developing workshops that move beyond one-size-fits-all training, I'd love to help create a learning experience grounded in participation, reflection, and real-world practice.
 
-[Schedule a conversation →](mailto:nic.bennett.scicomm@gmail.com)
+**[Schedule a conversation →](mailto:nic.bennett.scicomm@gmail.com)**
 
 ---
 
 ### Continue exploring
 
-← [Climate Change Theatre Action](ccta)
+← [Climate Change Theatre Action](/about/projects/ccta)
 
-[STEMprov](stemprov) →
+[STEMprov](/about/projects/stemprov) →
 
-[AAAS Learning Hub](aaas) →
+[AAAS Learning Hub](/about/projects/aaas) →

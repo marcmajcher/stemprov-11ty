@@ -1,9 +1,7 @@
 ---
-title: STEMprov
-layout: layouts/project.njk
+title: STEMprov Improv for Science & Technology
+layout: layouts/page.njk
 ---
-
-# STEMprov: Improv for Science & Technology
 
 ### Helping scientists build collaboration, creativity, and confidence through improvisation.
 
@@ -146,8 +144,8 @@ Whether you're planning a department retreat, conference session, leadership pro
 
 ### Continue exploring
 
-← [SciComm Identities Project](scip)
+← [SciComm Identities Project](/about/projects/scip)
 
-[AAAS Learning Hub](aaas) →
+[AAAS Learning Hub](/about/projects/aaas) →
 
-[Climate Change Theatre Action](ccta) →
+[Climate Change Theatre Action](/about/projects/ccta) →

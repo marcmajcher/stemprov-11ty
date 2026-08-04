@@ -1,9 +1,8 @@
 ---
 title: Climate Change Theatre Action
-layout: layouts/project.njk
+layout: layouts/page.njk
 ---
 
-# Climate Change Theatre Action
 
 ### Bringing scientists, artists, and community members together to imagine climate futures.
 
@@ -15,7 +14,7 @@ layout: layouts/project.njk
 
 
 > **Organizations**
-> [Climate Change Theatre Action](https://www.climatechangetheatreaction.com/), [Michigan State University Center for Interdisciplinary Research, Collaboration, Learning, and Engagement, Beal Botanical Garden, Corey Marsh, Research Center, & dozens of community partners
+> [Climate Change Theatre Action](https://www.climatechangetheatreaction.com/), Michigan State University Center for Interdisciplinary Research, Collaboration, Learning, and Engagement, Beal Botanical Garden, Corey Marsh, Research Center, & dozens of community partners
 >
 > **Sector**
 > Arts • Higher Education • Community Engagement
@@ -109,8 +108,8 @@ If you're interested in designing a retreat, festival, workshop, or public engag
 
 ### Related Projects
 
-←[STEMprov](stemprov)
+←[STEMprov](/about/projects/stemprov)
 
-[SciComm Identities Project](scip) →
+[SciComm Identities Project](/about/projects/scip) →
 
-[Reimagining Climate Futures](greenmoment) →
+[Reimagining Climate Futures](/about/projects/greenmoment) →

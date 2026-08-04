@@ -1,9 +1,7 @@
 ---
-title: AAAS Member Learning Hub
-layout: layouts/project.njk
+title: American Association for the Advancement of Science Member Learning Hub
+layout: layouts/page.njk
 ---
-
-# American Association for the Advancement of Science Member Learning Hub
 
 ### Translating research into practical learning experiences for scientists and engineers.
 
@@ -118,6 +116,6 @@ Whether you're developing a professional learning program, translating research 
 
 ### Continue exploring
 
-← [National Academy of Engineering](nae)
+← [National Academy of Engineering](/about/projects/nae)
 
-[SciComm Identities Project](scip) →
+[SciComm Identities Project](/about/projects/scip) →

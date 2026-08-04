@@ -1,9 +1,8 @@
 ---
 title: Science in Solidarity
-layout: layouts/project.njk
+layout: layouts/page.njk
 ---
 
-# Science in Solidarity
 
 ### Designing leadership systems that transform concern into collective action.
 
@@ -191,8 +190,8 @@ Together, we can create organizations where leadership isn't concentrated in a f
 
 ### Continue exploring
 
-← [Developing Health Equity Leaders](healthequity)
+← [Developing Health Equity Leaders](/about/projects/healthequity)
 
-[Climate Change Theatre Action](ccta) →
+[Climate Change Theatre Action](/about/projects/ccta) →
 
-[AAAS Member Learning Hub](aaas) →
+[AAAS Member Learning Hub](/about/projects/aaas) →

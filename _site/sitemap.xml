@@ -27,12 +27,12 @@
   </url>
   
   <url>
-    <loc>https://stemprov.org/about/</loc>
+    <loc>https://stemprov.org/about/contact/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   
   <url>
-    <loc>https://stemprov.org/about/media/</loc>
+    <loc>https://stemprov.org/about/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   
@@ -88,6 +88,41 @@
   
   <url>
     <loc>https://stemprov.org/about/projects/ccta/</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stemprov.org/about/projects/scip/</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stemprov.org/about/projects/stemprov/</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stemprov.org/about/projects/sis/</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stemprov.org/about/projects/healthequity/</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stemprov.org/about/projects/aaas/</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stemprov.org/about/projects/nae/</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stemprov.org/about/projects/greenmoment/</loc>
     <lastmod>2026-08-04</lastmod>
   </url>
 </urlset>

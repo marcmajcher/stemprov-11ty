@@ -1,9 +1,7 @@
 ---
 title: Reimagining Climate Futures Through Participatory Theatre
-layout: layouts/project.njk
+layout: layouts/page.njk
 ---
-
-# Reimagining Climate Futures Through Participatory Theatre
 
 ### Designing arts-based learning experiences that help young people investigate climate change, agency, and collective action.
 
@@ -177,8 +175,8 @@ Every engagement is developed collaboratively and refined through reflection, he
 
 ### Continue exploring
 
-← [Climate Change Theatre Action](ccta)
+← [Climate Change Theatre Action](/about/projects/ccta)
 
-[Developing Health Equity Leaders](healthequity) →
+[Developing Health Equity Leaders](/about/projects/healthequity) →
 
-[Science in Solidarity](sis) →
+[Science in Solidarity](/about/projects/sis) →

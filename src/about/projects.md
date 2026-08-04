@@ -7,15 +7,13 @@ eleventyNavigation:
   order: 2
 ---
 
-# Projects
-
 Every project begins with a different challenge.
 
 Some ask how to help scientists communicate more authentically. Others explore how teams build trust, how leaders develop, or how communities imagine new futures together.
 
 These stories illustrate how I design participatory learning experiences rooted in research, creativity, and community.
 
-Some projects fundamentally shaped how I think about facilitation and learning. Others demonstrate how I've partnered with national organizations to translate those ideas into practice.
+Some of the projects below fundamentally shaped how I think about facilitation and learning. Others demonstrate how I've partnered with national organizations to translate those ideas into practice.
 
 ---
 
@@ -23,7 +21,7 @@ Some projects fundamentally shaped how I think about facilitation and learning. 
 
 These projects represent the heart of my practice.
 
-### [SciComm Identities Project](scip)
+### [SciComm Identities Project](/about/projects/scip)
 
 **Helping scientists communicate with authenticity by creating spaces where more people belong.**
 
@@ -31,7 +29,7 @@ Workshop Design • Facilitation • Curriculum Development • Evaluation
 
 ---
 
-### [STEMprov: Improv for Science & Technology](stemprov)
+### [STEMprov: Improv for Science & Technology](/about/projects/stemprov)
 
 **Helping scientists build collaboration, creativity, and confidence through improvisation.**
 
@@ -39,7 +37,7 @@ Workshop Design • Team Development • Applied Improvisation
 
 ---
 
-### [Science in Solidarity](sis)
+### [Science in Solidarity](/about/projects/sis)
 
 **Helping researchers organize, lead, and build collective power together.**
 
@@ -47,7 +45,7 @@ Leadership Development • Strategic Planning • Community Organizing
 
 ---
 
-### [Climate Change Theatre Action](ccta)
+### [Climate Change Theatre Action](/about/projects/ccta)
 
 **Bringing scientists, artists, and community members together to imagine climate futures.**
 
@@ -55,7 +53,7 @@ Community Engagement • Arts-Based Facilitation • Event Design
 
 ---
 
-### [Developing Health Equity Leaders Through Embodied Learning](healthequity)
+### [Developing Health Equity Leaders Through Embodied Learning](/about/projects/healthequity)
 
 **Preparing healthcare leaders to navigate equity, power, and difficult conversations through embodied learning.**
 
@@ -67,7 +65,7 @@ Leadership Development • Theatre of the Oppressed • Curriculum Design
 
 These projects demonstrate my experience partnering with universities, scientific societies, and national organizations to translate research into engaging learning experiences.
 
-### [AAAS Member Learning Hub](aaas)
+### [AAAS Member Learning Hub](/about/projects/aaas)
 
 **Transforming research into practical learning experiences for scientists and engineers.**
 
@@ -75,7 +73,7 @@ Learning Design • Curriculum Development • Adult Learning
 
 ---
 
-### [Designing Research-Informed Science Communication for the National Academy of Engineering]("nae"")
+### [Designing Research-Informed Science Communication for the National Academy of Engineering](/about/projects/nae)
 
 **Translating research on engineering identity into engaging educational media.**
 

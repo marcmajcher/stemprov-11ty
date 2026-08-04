@@ -1,9 +1,7 @@
 ---
 title: Developing Health Equity Leaders Through Embodied Learning
-layout: layouts/project.njk
+layout: layouts/page.njk
 ---
-
-# Developing Health Equity Leaders Through Embodied Learning
 
 ### Helping healthcare professionals practice the relational skills needed to lead through complexity.
 
