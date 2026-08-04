@@ -7,123 +7,140 @@ eleventyNavigation:
   order: 1
 ---
 
-My work sits at the intersection of science communication, learning design, community organizing, and applied theatre. Bringing these fields together allows me to design experiences that don't just share knowledge—they help people build relationships, practice new skills, and create change together.
-# I help organizations use culture and creativity to build collective power.
+Every engagement is tailored to your goals, your people, and your context. Whether you're planning a retreat, designing a learning experience, or developing leaders, I create participatory experiences that help people build stronger relationships, practice new ways of working together, and turn shared values into action.
 
-Whether you're designing a retreat, training leaders, or navigating organizational change, I create participatory experiences that help people build trust, strengthen relationships, and turn shared values into action.
+## How can I help?
 
-My work brings together **facilitation, learning design, science communication, community organizing, and applied theatre** to help groups move from passive participation to genuine collaboration.
+Choose the challenge that sounds most like yours
 
-### I partner with organizations on:
-- Workshop facilitation
-- Retreats
-- Leadership development
-- Curriculum design
-- Strategic planning
-- Conference sessions
-- Science communication training
+💕 [Build Collaborative Cultures](#build-collaborative-cultures)
 
-**Planning a workshop, retreat, or leadership program? I'd love to talk about how we can work together.**
+Strengthen trust, collaboration, and belonging.
 
-[Schedule a Conversation](mailto:nic.bennett.scicomm@gmail.com)
+🎓 [Design Transformative Leadership](#design-transformative-learning)
 
-# Build Trust, Belonging & Collaborative Culture
-### Create teams that collaborate across differences.
-Many organizations bring people together without creating the conditions for trust, curiosity, or shared ownership. I design participatory experiences where people can rehearse the kinds of collaboration, leadership, and communities they want to create.
-### Common challenges
+Create workshops and learning experiences that people actually use.
+
+🌱 [Develop Collective Leadership](#develop-collective-leadership)
+
+Grow leaders who build relationships and sustain change.
+
+---
+
+## 💕 Build Collaborative Cultures
+### For organizations that want people to genuinely work together—not just work alongside one another.
+
+Strong collaboration doesn't happen by accident.
+
+I design participatory retreats and workshops where people build trust, navigate difference, and rehearse the kinds of relationships and cultures they want to create beyond the room.
+
+### Does this sound familiar?
+
 - People don't feel connected.
 - We're struggling to collaborate across differences.
 - We want a healthier team culture.
-### Ways we can work together
-- Team retreats
-- Arts-based facilitation
-- Dialogue and relationship-building workshops
-- Creative approaches to inclusion and belonging
-- Organizational reflection and visioning
-### Selected work
-- [Climate Change Theatre Action East Lansing]("ccta")
-- [Scicomm Identities Project]("scip")
-- [STEMprov Improv for Science & Technology]("stemprov")
 
-**Could this help your organization?**
+### We might work together through...
 
-If you're planning a department retreat, conference workshop, or team-building experience, let's talk about how we can tailor one to your goals.
+- **Team retreats**
+- **Dialogue & relationship-building workshops**
+- **Arts-based facilitation**
+- **Organizational reflection & visioning**
 
-[**Get in touch**](mailto:nic.bennett.scicomm@gmail.com)
-[**Learn more →**]("casestudies")
+### See it in practice
 
-# Design Learning That Moves People
-### Workshops people remember—and actually use.
-The best learning doesn't happen through lectures. I design interactive workshops that help participants actively practice new skills, reflect on their experiences, and leave ready to apply what they've learned.
+- [Climate Change Theatre Action East Lansing](http://stemprov.org/about/projects/ccta)
+- [SciComm Identities Project](stemprov.org/about/casestudies/#scicomm-identities-project)
+- [STEMprov: Improv for Science & Technology](stemprov.org/about/casestudies/#stemprov%3A-improv-for-science-%26-technology)
 
-Whether the topic is science communication, leadership, collaboration, or public engagement, my goal is the same: learning that sticks.
-### Common challenges
+**Let's create the conditions for stronger collaboration.**
+
+[Get in touch →](mailto:nic.bennett.scicomm@gmail.com)
+
+---
+
+## 🎓 Design Transformative Learning
+
+### For organizations that want learning people remember—and actually use.
+
+The best learning doesn't happen through lectures.
+
+I design participatory workshops and learning experiences where people actively practice new skills, reflect together, and leave ready to apply what they've learned.
+
+### Does this sound familiar?
+
 - People are disengaged.
 - Our trainings feel like lectures.
-- We need learning that participants can immediately apply.
-### Ways we can work together
-- Workshop design
-- Facilitation
-- Curriculum development
-- Science communication training
-- Conference workshops
-- Train-the-trainer programs
-### Selected work
-- [American Association for the Advancement of Science (AAAS) Member Learning Hub]("aaas")
-- [Designing Research-Informed Science Communication for the National Academy of Engineering]("nae")
+- We need learning people can immediately apply.
 
-**Could this help your organization?**
+### We might work together through...
 
-If you're planning a department retreat, conference workshop, or team-building experience, let's talk about how we can tailor one to your goals.
+- **Interactive workshops**
+- **Curriculum design**
+- **Science communication training**
+- **Conference sessions & facilitation**
 
-[**Get in touch**](mailto:nic.bennett.scicomm@gmail.com)
-[**Learn more →**]("casestudies")
+### See it in practice
 
-# Develop Leaders Who Build Change
-### Grow leadership—not just participation.
-Strong organizations don't depend on a few committed people. They cultivate leaders who build relationships, share responsibility, and help others step into meaningful roles.
+- [AAAS Member Learning Hub](aaas)
+- [Designing Research-Informed Science Communication for the National Academy of Engineering](nae)
 
-I help organizations develop leadership practices, team structures, and organizing strategies that make collective action sustainable.
-### Common challenges
+**Let's design learning that sticks.**
+
+[Get in touch →](mailto:nic.bennett.scicomm@gmail.com)
+
+---
+
+## 🌱 Develop Collective Leadership
+
+### For organizations that want to grow leaders—not just participants.
+
+Strong organizations don't rely on a handful of committed people.
+
+I help teams develop leadership practices, organizing skills, and collaborative structures that make collective action sustainable.
+
+### Does this sound familiar?
+
 - We're relying on the same people.
 - We have volunteers but not enough leaders.
 - Our organizers are burning out.
-### Ways we can work together
-- Leadership development
-- Strategic planning retreats
-- Public Narrative workshops
-- Coalition facilitation
-- Campaign strategy
-- Team and organizational design
-### Selected work
-- [Science in Solidarity]("sis")
-- [Reimagining Climate Futures Through Participatory Theatre]("greenmoment")
-- [Developing Health Equity Leaders Through Embodied Learning]("dellmedto")
 
-**Could this help your organization?**
+### We might work together through...
 
-If you're planning a department retreat, conference workshop, or team-building experience, let's talk about how we can tailor one to your goals.
+- **Leadership development**
+- **Strategic planning retreats**
+- **Public Narrative workshops**
+- **Coalition facilitation & campaign strategy**
 
-[**Get in touch**](mailto:nic.bennett.scicomm@gmail.com)
-[**Learn more →**]("casestudies")
-# Let's build something together
+### See it in practice
 
-Every organization has different goals, challenges, and constraints. Whether you need someone to facilitate a retreat, design an engaging learning experience, develop emerging leaders, or help your team navigate change, I'd love to explore how I can help.
+- [Science in Solidarity](sis)
+- [Reimagining Climate Futures Through Participatory Theatre](greenmoment)
+- [Developing Health Equity Leaders Through Embodied Learning](dellmedto)
 
-**Typical engagements include:**
+**Let's build leadership that lasts.**
+
+[Get in touch →](mailto:nic.bennett.scicomm@gmail.com)
+
+---
+
+# Not sure where your project fits?
+
+Most of my work combines elements of all three.
+
+If you're planning a conference, retreat, leadership program, or something that doesn't fit neatly into one category, I'd love to talk. Together, we'll design an experience around your goals.
+
+## Typical engagements
 
 - Half-day and multi-day retreats
 - Interactive workshops
+- Conference sessions
 - Leadership development programs
-- Conference facilitation
 - Curriculum design
 - Strategic planning
 - Ongoing consulting
 
-**Interested in working together?**
-Email me at nic.bennett.scicomm@gmail.com to schedule a free 30-minute consultation.
------
-
+[Schedule a free 30-minute conversation →](mailto:nic.bennett.scicomm@gmail.com)
 
 
 

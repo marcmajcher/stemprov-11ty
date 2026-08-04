@@ -77,12 +77,12 @@ div.words {
   top: 180px;
   left: 80px;
 }
-
 .big-word {
-  font-weight: 500;
+  font-weight: 700;
   font-size: clamp(3rem, 8vw, 8rem);
 }
 .big-word-one {
+  -webkit-text-stroke: 1px white;
   margin-left: 2rem;
 }
 .big-word-two {
