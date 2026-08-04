@@ -114,9 +114,9 @@ I help teams develop leadership practices, organizing skills, and collaborative 
 
 ### See it in practice
 
-- [Science in Solidarity](sis)
+- [Science in Solidarity](projects/sis)
 - [Reimagining Climate Futures Through Participatory Theatre](projects/greenmoment)
-- [Developing Health Equity Leaders Through Embodied Learning](dellmedto)
+- [Developing Health Equity Leaders Through Embodied Learning](projects/healthequity)
 
 **Let's build leadership that lasts.**
 
