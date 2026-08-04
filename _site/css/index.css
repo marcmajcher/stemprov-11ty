@@ -80,7 +80,7 @@ div.words {
 
 .big-word {
   font-weight: 500;
-  font-size: 20rem;
+  font-size: clamp(3rem, 8vw, 8rem);
 }
 .big-word-one {
   margin-left: 200px;
