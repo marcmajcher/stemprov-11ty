@@ -75,7 +75,7 @@ Learning Design • Curriculum Development • Adult Learning
 
 ---
 
-### [Designing Research-Informed Science Communication for the National Academy of Engineering](nae)
+### [Designing Research-Informed Science Communication for the National Academy of Engineering]("nae"")
 
 **Translating research on engineering identity into engaging educational media.**
 

@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Writing & Ideas
-templateClass: tmpl-pag e
+templateClass: tmpl-page
 eleventyNavigation:
   key: Writing & Ideas
   order: 5

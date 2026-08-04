@@ -49,9 +49,9 @@ I design participatory retreats and workshops where people build trust, navigate
 
 ### See it in practice
 
-- [Climate Change Theatre Action East Lansing](http://stemprov.org/about/projects/ccta)
-- [SciComm Identities Project](stemprov.org/about/casestudies/#scicomm-identities-project)
-- [STEMprov: Improv for Science & Technology](stemprov.org/about/casestudies/#stemprov%3A-improv-for-science-%26-technology)
+- [Climate Change Theatre Action East Lansing](projects/ccta)
+- [SciComm Identities Project](projects/scip)
+- [STEMprov: Improv for Science & Technology](projects/stemprov)
 
 **Let's create the conditions for stronger collaboration.**
 
@@ -82,8 +82,8 @@ I design participatory workshops and learning experiences where people actively 
 
 ### See it in practice
 
-- [AAAS Member Learning Hub](aaas)
-- [Designing Research-Informed Science Communication for the National Academy of Engineering](nae)
+- [AAAS Member Learning Hub](projects/aaas)
+- [Designing Research-Informed Science Communication for the National Academy of Engineering](projects/nae)
 
 **Let's design learning that sticks.**
 
@@ -115,7 +115,7 @@ I help teams develop leadership practices, organizing skills, and collaborative 
 ### See it in practice
 
 - [Science in Solidarity](sis)
-- [Reimagining Climate Futures Through Participatory Theatre](greenmoment)
+- [Reimagining Climate Futures Through Participatory Theatre](projects/greenmoment)
 - [Developing Health Equity Leaders Through Embodied Learning](dellmedto)
 
 **Let's build leadership that lasts.**
