@@ -83,8 +83,7 @@ div.words {
   font-size: clamp(3rem, 8vw, 8rem);
 }
 .big-word-one {
-  margin-left: 200px;
-  margin-left: 13rem;
+  margin-left: 2rem;
 }
 .big-word-two {
   margin-top: -20px;
