@@ -3,39 +3,13 @@ title: Reimagining Climate Futures Through Participatory Theatre
 layout: layouts/page.njk
 ---
 
+<!-- hero image -->
+
 ### Designing arts-based learning experiences that help young people investigate climate change, agency, and collective action.
 
-> **Design Principle**
->
-> **People don't become agents of change by receiving answers—they become agents of change by asking better questions together.**
->
-> Participatory theatre creates space for people to investigate complex challenges, imagine alternatives, and rehearse new possibilities.
-
 ---
 
-> **Organization**
-> The University of Texas at Austin, Austin Youth River Watch
->
-> **Sector**
-> Climate Communication • Youth Engagement • Participatory Research
->
-> **Services**
-> Learning Design • Facilitation • Applied Theatre • Participatory Research • Climate Communication
->
-> **Audience**
-> Youth environmental leaders and undergraduate students
->
-> **Timeline**
->
-> **2020** — *Transmissions from 2050* (virtual) with Austin Youth River Watch
->
-> **2021** — Summer camp implementation with Austin Youth River Watch
->
-> **2023** — *A Green Moment to Share* with undergraduate students at The University of Texas at Austin
-
----
-
-## The Challenge
+## The Opportunity
 
 Young people are surrounded by messages about climate change.
 
@@ -152,6 +126,35 @@ The work also contributed to broader research on arts-based science communicatio
 *Curriculum evolution across iterations*
 
 ---
+## Project Details & Resources
+> **Design Principle**
+>
+> **People don't become agents of change by receiving answers—they become agents of change by asking better questions together.**
+>
+> Participatory theatre creates space for people to investigate complex challenges, imagine alternatives, and rehearse new possibilities.
+
+---
+
+
+> **Organization**
+> The University of Texas at Austin, Austin Youth River Watch
+>
+> **Sector**
+> Climate Communication • Youth Engagement • Participatory Research
+>
+> **Services**
+> Learning Design • Facilitation • Applied Theatre • Participatory Research • Climate Communication
+>
+> **Audience**
+> Youth environmental leaders and undergraduate students
+>
+> **Timeline**
+>
+> **2020** — *Transmissions from 2050* (virtual) with Austin Youth River Watch
+>
+> **2021** — Summer camp implementation with Austin Youth River Watch
+>
+> **2023** — *A Green Moment to Share* with undergraduate students at The University of Texas at Austin
 
 ## Resources
 

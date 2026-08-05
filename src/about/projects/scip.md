@@ -3,33 +3,13 @@ title: SciComm Identities Project
 layout: layouts/page.njk
 ---
 
+<img src="/img/scip_hero.jpg" alt="workshop participants play a hypnosis theatre game" width="600">
+
 ### Reimagining science communication training by helping scientists communicate with authenticity, confidence, and cultural responsiveness.
 
-> **Design Principle**
->
-> **People communicate more effectively when they don't have to leave parts of themselves at the door.**
->
-> Professional development is most transformative when it recognizes participants' identities, experiences, and communities as strengths rather than deficits.
-
 ---
 
-> **Organization**
-> Michigan State University Knight Center for Environmental Journalism & University of Rhode Island Metcalf Institute
->
-> **Sector**
-> Higher Education • Professional Development
->
-> **Services**
-> Workshop Design • Facilitation • Curriculum Development • Learning Design • Evaluation
->
-> **Audience**
-> Early-career faculty and scientists
-
-<!-- workshop photo -->
-
----
-
-## The Challenge
+## The Opportunity
 
 Most science communication training teaches researchers how to simplify complex ideas, speak to the media, or engage public audiences.
 
@@ -37,15 +17,20 @@ But these approaches often assume there's a single "right" way to communicate—
 
 The SciComm Identities Project set out to develop a different model for professional development: one that helped scientists communicate with authenticity while recognizing the cultural and institutional contexts that shape science communication. Together, our team designed and tested a new curriculum grounded in intercultural communication, identity, and belonging to better support scientists from marginalized communities.
 
+<img src="/img/scip2.jpg" alt="scicomm identities workshop" width="600">
+
 ---
 
-## My Approach
+## Our Approach
 
-As a Postdoctoral Research Fellow, I helped design and facilitate workshops that blended evidence-based science communication with participatory learning.
+As a Postdoctoral Research Fellow on a team, I helped design and facilitate workshops that blended evidence-based science communication with participatory learning.
 
 Rather than relying primarily on lectures or presentation practice, our workshops invited participants to reflect, experiment, and learn from one another through storytelling, dialogue, improvisation, and applied theatre.
 
 Each workshop became an opportunity to test new approaches, gather participant feedback, and continually refine the curriculum.
+
+
+<img src="/img/scip1.jpg" alt="scicomm identities workshop" width="300">
 
 ---
 
@@ -57,7 +42,12 @@ We began with people.
 
 Participants explored how their identities, values, communities, and experiences shaped the way they approached public engagement. Through storytelling, dialogue, and visual identity mapping, they reflected on how authenticity can strengthen communication rather than undermine scientific credibility.
 
-<!-- culture collage or identity work photos -->
+<img src="/img/scip_collage1.jpg" alt="example of a culture collage a participant made with their inner and outer identities" width="300">
+<img src="/img/scip_collage2.jpg" alt="example of a culture collage a participant made with their inner and outer identities" width="300">
+<img src="/img/scip_collage3.jpg" alt="example of a culture collage a participant made with their inner and outer identities" width="300">
+<img src="/img/scip_collage4.jpg" alt="example of a culture collage a participant made with their inner and outer identities" width="300">
+<img src="/img/scip_collage5.jpg" alt="example of a culture collage a participant made with their inner and outer identities" width="300">
+<img src="/img/scip_collage6.jpg" alt="example of a culture collage a participant made with their inner and outer identities" width="300">
 
 ---
 
@@ -69,7 +59,7 @@ Using improvisation and Theatre of the Oppressed, scientists experimented with r
 
 These embodied activities helped participants build confidence while developing practical communication skills they could immediately apply.
 
-<!-- theatre or improv photos -->
+<img src="/img/scip4.jpg" alt="scicomm identities workshop" width="600">
 
 ---
 
@@ -81,6 +71,9 @@ Across immersive trainings and virtual learning sessions, participants developed
 
 By creating space for reflection, peer learning, and iteration, the program fostered ongoing growth rather than one-time skill development.
 
+<img src="/img/scip6.jpg" alt="scicomm identities workshop" width="600">
+
+
 ---
 
 ## Outcomes
@@ -90,18 +83,28 @@ Over three years, the project helped develop and test a culturally responsive sc
 The fellowship prepared 38 early-career researchers through immersive workshops, virtual learning modules, peer feedback, and communication projects while contributing new evidence about culturally responsive science communication training. The project also produced evaluation approaches, publications, and practical resources that continue to inform science communication educators and trainers.
 More personally, this project transformed how I approach facilitation. It reinforced that meaningful professional development isn't simply about transferring knowledge—it's about creating the conditions where people feel safe enough to reflect, experiment, and grow together.
 
+<img src="/img/scip3.jpg" alt="scicomm identities workshop" width="600">
+
 ---
 
 ## Gallery
 
-<!-- workshop photos -->
+<img src="/img/scip5.jpg" alt="scicomm identities workshop" width="600">
+<img src="/img/scip7.jpg" alt="scicomm identities workshop" width="300">
+<img src="/img/scip8.jpg" alt="scicomm identities workshop" width="300">
+<img src="/img/scip9.jpg" alt="scicomm identities workshop" width="300">
+<img src="/img/scip10.jpg" alt="scicomm identities workshop" width="300">
+<img src="/img/scip11.jpg" alt="scicomm identities workshop" width="300">
+<img src="/img/scip13.jpg" alt="scicomm identities workshop" width="300">
 
 ---
 
-## Resources
+## Project Details & Resources
 
-- SCIP website(https://scicommidentities.org/)
-- Knight Center workshop feature(https://knightcenter.jrn.msu.edu/2024/07/26/scip-workshop-empowers-minority-scientists-with-inclusive-science-communication-skills/)
+- **[SCIP website](https://scicommidentities.org/)**
+- **[MSU Knight Center workshop feature](https://knightcenter.jrn.msu.edu/2024/07/26/scip-workshop-empowers-minority-scientists-with-inclusive-science-communication-skills/)**
+- **Organizations:** Michigan State University Knight Center for Environmental Journalism & University of Rhode Island Metcalf Institute
+- **Services:** Workshop Design • Facilitation • Curriculum Development • Learning Design • Evaluation
 
 ---
 

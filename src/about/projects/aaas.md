@@ -3,33 +3,13 @@ title: American Association for the Advancement of Science Member Learning Hub
 layout: layouts/page.njk
 ---
 
-### Translating research into practical learning experiences for scientists and engineers.
-
-> **Design Principle**
->
-> **Evidence becomes useful when people can apply it to their own work.**
->
-> Research alone doesn't change practice. Effective professional learning helps people connect evidence with the real decisions they make every day.
-
----
-
-> **Organization**
-> American Association for the Advancement of Science (AAAS)
->
-> **Sector**
-> Professional Development • Higher Education • Science Communication
->
-> **Services**
-> Learning Design • Curriculum Development • Research Synthesis • Literature Reviews • Adult Learning
->
-> **Audience**
-> Scientists and engineers across career stages
-
 <!-- AAAS learning hub screenshot -->
 
+### Translating research into practical learning experiences for scientists and engineers.
+
 ---
 
-## The Challenge
+## The Opportunity
 
 Scientists today are expected to do far more than conduct research.
 
@@ -96,10 +76,16 @@ Together, these courses help scientists translate research into more thoughtful 
 For me, the project also demonstrates something central to my consulting practice: I enjoy collaborating within multidisciplinary teams, bringing together research, instructional design, and organizational goals to create learning experiences that are both evidence-based and practical.
 
 ---
+## Project Details & Resources
+
+- **Organizations:** American Association for the Advancement of Science (AAAS)
+- **Services:** Learning Design • Curriculum Development • Research Synthesis • Literature Reviews • Adult Learning
+- **Timeline:** 2025
+- **[AAAS Member Learning Hub](https://learninghub.aaas.org/)**
+
+---
 
 ## Resources
-
-- AAAS Member Learning Hub(https://learninghub.aaas.org/)
 - Course descriptions
 - Sample course map excerpt
 - Annotated bibliography excerpt

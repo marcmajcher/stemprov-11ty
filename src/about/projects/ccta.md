@@ -3,30 +3,13 @@ title: Climate Change Theatre Action
 layout: layouts/page.njk
 ---
 
+<!-- Hero image here -->
 
 ### Bringing scientists, artists, and community members together to imagine climate futures.
 
-> **Design Principle**
->
-> **Art creates the emotional and imaginative space that makes dialogue possible.**
->
-> Lasting engagement begins when people are invited to imagine, feel, and reflect together (not just absorb information).
-
-
-> **Organizations**
-> [Climate Change Theatre Action](https://www.climatechangetheatreaction.com/), Michigan State University Center for Interdisciplinary Research, Collaboration, Learning, and Engagement, Beal Botanical Garden, Corey Marsh, Research Center, & dozens of community partners
->
-> **Sector**
-> Arts • Higher Education • Community Engagement
->
-> **Services**
-> Facilitation • Event Design • Community Engagement • Partnership Development • Arts-Based Science Communication
-
-<!-- Hero image here -->
-
 ---
 
-## The Challenge
+## The Opportunity
 
 Climate change conversations often happen in silos.
 
@@ -35,14 +18,6 @@ Scientists present research. Artists create emotional experiences. Community org
 For the 10th anniversary of Climate Change Theatre Action, we set out to create something different: a community festival where science, theatre, and dialogue could come together to help people imagine possible climate futures—and their own role in creating them.
 
 ---
-
-## My Approach
-
-As Festival Producer, I designed and coordinated a two-day community festival that brought together researchers, artists, environmental organizations, and community members across multiple venues.
-
-Rather than treating theatre as entertainment or science as a lecture, we designed the festival as a participatory experience. Every element invited people to move beyond passive observation and into conversation, reflection, and relationship-building.
-
-Participants watched performances, engaged with climate researchers, explored local ecological sites, connected with environmental organizations, and reflected together on what climate action could look like in their own communities.
 
 ### Building partnerships
 
@@ -92,9 +67,12 @@ The project also strengthened partnerships among scientists, artists, educators,
 
 ---
 
-## Resources
+## Project Details & Resources
 
-- [Festival website](https://elansingclimateaction.art/)
+- **Organizations:** Climate Change Theatre Action, Michigan State University Center for Interdisciplinary Research, Collaboration, Learning, and Engagement, Beal Botanical Garden, Corey Marsh, Research Center, & dozens of community partners
+- **Services:** Facilitation • Event Design • Community Engagement • Partnership Development • Arts-Based Science Communication
+- **Timeline:** 2024-2025
+- **[Festival website](https://elansingclimateaction.art/)**
 
 ---
 

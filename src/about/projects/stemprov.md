@@ -32,7 +32,7 @@ layout: layouts/page.njk
 
 ---
 
-## The Challenge
+## The Opportunity
 
 Scientists are trained to analyze evidence, solve complex problems, and communicate technical ideas.
 
