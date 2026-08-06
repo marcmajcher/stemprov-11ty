@@ -2,36 +2,13 @@
 title: Science in Solidarity
 layout: layouts/page.njk
 ---
-
+<img src="/img/sis_action_hour_title.jpg" alt="science in solidarity action hour title" width="300">
+<img src="/img/sis_action_hour_agenda.jpg" alt="science in solidarity action hour agenda" width="300">
 
 ### Designing leadership systems that transform concern into collective action.
-
-> **Design Principle**
->
-> **Leadership grows through relationships and repeated opportunities to practice.**
->
-> Sustainable organizations don't just recruit volunteers—they create structures that help people build confidence, develop new skills, and grow into leadership over time.
-
 ---
 
-> **Organization**
-> [Science in Solidarity](scienceinsolidarity.org)
->
-> **Sector**
-> Community Organizing • Scientific Community • Civic Engagement
->
-> **Services**
-> Leadership Development • Organizational Design • Strategic Planning • Facilitation • Coalition Building
->
-> **Audience**
-> Scientists, researchers, and science professionals
->
-> **Timeline**
-> 2025–Present
-
----
-
-## The Challenge
+## The Opportunity
 
 Many scientists are deeply concerned about attacks on science, higher education, and democratic institutions.
 
@@ -41,17 +18,19 @@ The challenge wasn't simply to mobilize scientists around a single issue.
 
 It was to build an organization where people could move from isolation and concern toward connection, purpose, and long-term leadership.
 
----
+<img src="/img/sis_fear.jpg" alt="science in solidarity fear processing" width="300">
+<img src="/img/sis_hope.jpg" alt="science in solidarity hopes for what we can build" width="300">
 
 ## How We Got There
 
-As Founder and Lead Organizer, I designed Science in Solidarity as both a political home and a leadership development organization.
+I designed Science in Solidarity as both a political home and a leadership development organization.
 
 Rather than treating organizing and leadership development as separate activities, we embedded learning into every part of the organization's design—from onboarding conversations and Action Hours to campaign planning and volunteer leadership.
 
 Every part of the organization was designed around one question:
 
 **How does this help more people grow into leadership?**
+<img src="/img/sis_leadership.jpg" alt="Organizing Fundamentals Training Slide from Science in Solidarity" width = "400">
 
 ---
 
@@ -62,6 +41,9 @@ Every member's journey began with conversation.
 Instead of immediately asking people to volunteer, I facilitated one-on-one conversations that explored their motivations, experiences, and hopes for the community.
 
 Those conversations helped people find meaningful ways to contribute while laying the foundation for long-term relationships and shared commitment.
+
+<img src="/img/sis_11_training.jpg" alt="1:1 Training Slide from Science in Solidarity" width = "300">
+<img src="/img/sis_sharedinterest.jpg" alt ="shared interest slide from Science in Solidarity action hour" width = "300">
 
 ---
 
@@ -74,6 +56,9 @@ It was something they practiced from the beginning.
 Action Hours combined political education, relationship-building, and coordinated action while creating opportunities for participants to facilitate discussions, support one another, and gradually take on greater responsibility.
 
 By embedding leadership into everyday organizing, participants developed confidence through practice rather than waiting until they felt "ready."
+
+<img src = "/img/sis_organizingis.jpg" alt = "science in solidarity leader training slide" width = "300">
+<img src = "/img/sis_mobilization.jpg" alt = "science in solidarity leader training slide" width = "300">
 
 ---
 
@@ -88,6 +73,8 @@ Every organizational system was intentionally designed to:
 - **Strengthen relationships** across the community.
 - **Advance shared goals** through coordinated campaigns.
 - **Develop new leaders** through meaningful participation.
+
+<img src="/img/sis_powerwith.jpg" alt="science in solidarity power with political education" width="400">
 
 ---
 
@@ -115,7 +102,7 @@ Rather than showcasing photographs (for privacy concerns), I wanted to share som
 
 Leadership wasn't treated as a title to earn—it was a progression of increasingly meaningful opportunities to contribute.
 
-<!-- leadership pathway graphic -->
+<img src="/img/sis_leaderladder.jpg" alt = "excerpt of Science in Solidarity leader ladder document" width = "600">
 
 ---
 
@@ -127,7 +114,8 @@ Leadership wasn't treated as a title to earn—it was a progression of increasin
 
 Every meeting served two purposes: advancing our campaigns while helping participants develop confidence, strategic thinking, and facilitation skills.
 
-<!-- example action hour agenda -->
+<img src = "/img/sis_ros1.jpg" alt = "science in solidarity action hour script excerpt" width = "300">
+<img src = "/img/sis_ros2.jpg" alt = "science in solidarity action hour script excerpt" width = "300">
 
 ---
 
@@ -139,7 +127,8 @@ Every meeting served two purposes: advancing our campaigns while helping partici
 
 Rather than recruiting volunteers into predefined roles, these conversations helped people find meaningful ways to contribute while building relationships from the very beginning.
 
-<!-- 1:1 guide-->
+
+<iframe src="/img/sis_oneonone_guide.pdf" width="100%" height="200px" style="border: none;"></iframe>
 
 ---
 
@@ -149,32 +138,29 @@ Rather than recruiting volunteers into predefined roles, these conversations hel
 
 **Why it mattered**
 
-Strategy wasn't only about choosing campaigns. It was also about intentionally designing opportunities for more people to develop as leaders.
+Rather than organizing around isolated events, we designed every campaign to strengthen three things at once:
+- Building relationships across the community
+- Coordinating action around shared goals
+- Inviting people to step into leadership and responsibility
 
-<!-- strategy screenshot (timeline? kernel?) -->
+The strategy connected day-to-day organizing work with the long-term project of building a resilient scientific community.
+
+<iframe src="/img/sis_strategy_kernel.pdf" width="100%" height="200px" style="border: none;"></iframe>
 
 ---
 
 ### Mutual Aid Campaign
 
-*A campaign page illustrating how organizing, storytelling, and concrete action came together in practice.*
+*How organizing, storytelling, and concrete action came together in practice.*
 
-**Why it mattered**
+Rather than beginning with a petition or a protest, we launched a mutual aid campaign that invited science workers to support one another through resource sharing, relationship-building, and political education.
 
-Campaigns weren't separate from leadership development—they were where people practiced organizing together.
+The campaign addressed immediate needs while helping participants experience solidarity as something they practiced together—not simply a value they agreed with.
 
-<!-- campaign screenshot -->
+In doing so, it transformed a moment of crisis into an opportunity to build lasting community and collective leadership.
 
----
-
-## Resources
-
-- [Science in Solidarity website](scienceinsolidarity.org)
-- Action Hour agenda
-- Leadership pathway
-- One-on-One Conversation Guide
-- Strategic planning documents
-- Mutual aid campaign page
+<img src="/img/sis_mutualaid_campaign.jpg" alt="Science in Solidarity mutual aid campaign" width="300">
+<img src="/img/sis_mutualaid_signup.jpg" alt="Science in Solidarity mutual aid campaign signup" width="300">
 
 ---
 
@@ -185,6 +171,19 @@ Whether you're building a volunteer-led organization, strengthening leadership w
 Together, we can create organizations where leadership isn't concentrated in a few people—it's cultivated throughout the community.
 
 **[Schedule a conversation →](mailto:nic.bennett.scicomm@gmail.com)**
+
+---
+
+## Want to join us?
+### Check out our website
+
+<iframe
+  src="https://scienceinsolidarity.org/"
+  width="100%"
+  height="300px"
+  style="border:none;"
+  title="Science in Solidarity Website">
+</iframe>
 
 ---
 
