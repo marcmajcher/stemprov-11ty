@@ -29,7 +29,7 @@ layout: layouts/page.njk
 
 ---
 
-## The Challenge
+## The Opportunity
 
 Engineering shapes nearly every aspect of modern life, yet its impact is often invisible to the people who benefit from it.
 

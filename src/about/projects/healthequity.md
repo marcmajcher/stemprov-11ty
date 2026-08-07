@@ -3,33 +3,13 @@ title: Developing Health Equity Leaders Through Embodied Learning
 layout: layouts/page.njk
 ---
 
+<img src="/img/dellmed8.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="600">
+
 ### Helping healthcare professionals practice the relational skills needed to lead through complexity.
 
-> **Design Principle**
->
-> **People develop courage through rehearsal—not instruction.**
->
-> Difficult conversations can't be mastered through lectures alone. They require opportunities to practice, reflect, and experiment in environments where mistakes become opportunities for learning.
-
 ---
 
-> **Organization**
-> Dell Medical School, The University of Texas at Austin
->
-> **Sector**
-> Healthcare • Professional Education
->
-> **Services**
-> Leadership Development • Facilitation • Professional Learning • Applied Theatre • Difficult Dialogue
->
-> **Audience**
-> Medical students, nursing students, residents, and healthcare educators
-
-<!-- hero workshop photo -->
-
----
-
-## The Challenge
+## The Opportunity
 
 Healthcare professionals regularly navigate situations shaped by power, identity, trauma, and uncertainty.
 
@@ -37,11 +17,11 @@ Whether caring for transgender patients, responding to trauma, or addressing hea
 
 Traditional professional education excels at teaching clinical knowledge but often offers fewer opportunities to practice the relational skills needed to build trust, navigate conflict, and respond thoughtfully in complex situations.
 
-The question wasn't simply **"What should healthcare professionals know?"**
+The question wasn't simply "What should healthcare professionals know?"
 
-It was:
+It was: *How can healthcare professionals rehearse responding to difficult situations before they encounter them with patients?*
 
-**How can people practice responding to difficult situations before they encounter them with patients?**
+<img src="/img/dellmed1.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="600">
 
 ---
 
@@ -53,6 +33,8 @@ Rather than presenting ideal responses, participants explored real scenarios tog
 
 The workshops created space for participants to slow down moments that often happen too quickly in practice and collectively imagine new possibilities.
 
+<img src="/img/dellmed14.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="600">
+
 ---
 
 ### Practice difficult conversations
@@ -63,7 +45,7 @@ Instead of discussing these situations abstractly, participants stepped into the
 
 Embodied rehearsal allowed participants to explore not only *what* they might do differently, but *why* different approaches changed the dynamics of the interaction.
 
-<!-- image theatre workshop photo -->
+<img src="/img/dellmed2.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="600">
 
 ---
 
@@ -75,7 +57,7 @@ These workshops invited participants to examine how institutional norms, profess
 
 By making these systems visible, participants could move beyond self-blame and begin imagining changes at both the interpersonal and organizational levels.
 
-<!-- workshop photo of group reflection or of an system-looking image -->
+<img src="/img/dellmed7.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="600">
 
 ---
 
@@ -89,7 +71,7 @@ The goal wasn't consensus.
 
 It was developing the capacity to respond with curiosity, empathy, and intention in situations where uncertainty is inevitable.
 
-<!-- workshop photo of discussion -->
+<img src="/img/dellmed9.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="600">
 
 ---
 
@@ -103,26 +85,27 @@ While the settings have changed, the core insight has remained the same:
 
 People become better leaders by practicing together—not simply by receiving more information.
 
+<img src="/img/dellmed13.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="600">
+
+
 ---
 
 ## Gallery
 
-<!-- workshop photos -->
-
-
-*Forum Theatre activities*
-
-*Participants sculpting scenes*
-
-*Facilitated reflection*
-
-*Group dialogue*
+<img src="/img/dellmed10.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="300">
+<img src="/img/dellmed4.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="300">
+<img src="/img/dellmed15.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="300">
+<img src="/img/dellmed5.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="300">
+<img src="/img/dellmed12.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="300">
+<img src="/img/dellmed3.jpeg" alt="Theatre of the Oppressed Workshop with Dell Medical School Students" width="300">
 
 ---
 
-## Resources
+## Project Details & Resources
 
-- Sample facilitation agenda
+- **Organization**: Dell Medical School, The University of Texas at Austin
+- **Sector**: Healthcare • Professional Education • Equity
+-  **Services**: Leadership Development • Facilitation • Professional Learning • Applied Theatre • Difficult Dialogue
 
 ---
 
@@ -136,8 +119,8 @@ Whether you're preparing healthcare professionals, educators, researchers, or no
 
 ### Continue exploring
 
-← [Science in Solidarity](sis)
+← [Science in Solidarity](/about/projects/sis)
 
-[Climate Change Theatre Action](ccta) →
+[Climate Change Theatre Action](/about/projects/ccta) →
 
-[STEMprov](stemprov) →
+[STEMprov](/about/projects/stemprov) →

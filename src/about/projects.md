@@ -17,9 +17,9 @@ Some of the projects below fundamentally shaped how I think about facilitation a
 
 ---
 
-## Featured Projects
+## Signature Projects
 
-These projects represent the heart of my practice.
+These six projects represent the core ideas that shape my facilitation and consulting practice. Each explores a different question about how people learn, collaborate, and create change together.
 
 ### [SciComm Identities Project](/about/projects/scip)
 
@@ -58,6 +58,14 @@ Community Engagement • Arts-Based Facilitation • Event Design
 **Preparing healthcare leaders to navigate equity, power, and difficult conversations through embodied learning.**
 
 Leadership Development • Theatre of the Oppressed • Curriculum Design
+
+---
+
+### [Reimagining Climate Futures](/about/projects/greenmoment)
+
+**Helping young people investigate climate change through participatory theatre.**
+
+Youth Engagement • Participatory Research • Climate Communication
 
 ---
 

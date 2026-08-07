@@ -2,8 +2,8 @@
 title: Climate Change Theatre Action
 layout: layouts/page.njk
 ---
+<img src="/img/ccta_audience2.jpeg" alt="CCTA performance" width="600">
 
-<!-- Hero image here -->
 
 ### Bringing scientists, artists, and community members together to imagine climate futures.
 
@@ -17,6 +17,8 @@ Scientists present research. Artists create emotional experiences. Community org
 
 For the 10th anniversary of Climate Change Theatre Action, we set out to create something different: a community festival where science, theatre, and dialogue could come together to help people imagine possible climate futures—and their own role in creating them.
 
+<img src="/img/ccta_trash.jpeg" alt="CCTA performance" width="600">
+
 ---
 
 ### Building partnerships
@@ -25,19 +27,20 @@ The festival was made possible through collaboration across universities, artist
 
 Coordinating these partnerships required designing an experience that honored each group's expertise while creating opportunities for genuine exchange rather than parallel programming.
 
-<!-- Photo of planning process or community tabling -->
+<img src="/img/ccta_community4.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_community5.jpeg" alt="CCTA performance" width="300">
 
 ---
 
 ### Designing participatory experiences
 
-Throughout the festival, theatre became a catalyst for conversation rather than an endpoint.
+Throughout the festival, theatre became a catalyst for conversation.
 
 Instead of asking audiences simply to absorb information, we created opportunities for dialogue, collective reflection, and meaning-making after performances and scientific presentations.
 
 These conversations helped participants connect climate science with their own experiences, values, and communities.
 
-<!-- Photo of audience discussion -->
+<img src="/img/ccta_crow.jpeg" alt="CCTA performance" width="600">
 
 ---
 
@@ -47,7 +50,7 @@ The festival extended beyond traditional performance spaces through guided exper
 
 These activities grounded conversations about climate change in local ecosystems, helping participants connect global challenges with the places they call home.
 
-<!-- Photo of the marsh or the garden -->
+<img src="/img/ccta_dance2.jpeg" alt="CCTA performance" width="600">
 
 ---
 
@@ -59,20 +62,35 @@ By combining theatre, scientific expertise, and facilitated dialogue, participan
 
 The project also strengthened partnerships among scientists, artists, educators, and community organizations, laying groundwork for future collaborations.
 
+<img src="/img/ccta_bow.jpeg" alt="CCTA performance" width="600">
+
 ---
 
 ## Gallery
 
-<!-- photos from workshops and performance -->
+<img src="/img/ccta_audience.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_dance4.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_community1.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_community.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_community6.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_community3.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_music.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_peng.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_dance3.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_dance6.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_scientists.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_dance5.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_tree.jpeg" alt="CCTA performance" width="300">
+<img src="/img/ccta_dance.jpeg" alt="CCTA performance" width="300">
 
 ---
 
 ## Project Details & Resources
 
+- **[Festival website](https://elansingclimateaction.art/)**
 - **Organizations:** Climate Change Theatre Action, Michigan State University Center for Interdisciplinary Research, Collaboration, Learning, and Engagement, Beal Botanical Garden, Corey Marsh, Research Center, & dozens of community partners
 - **Services:** Facilitation • Event Design • Community Engagement • Partnership Development • Arts-Based Science Communication
 - **Timeline:** 2024-2025
-- **[Festival website](https://elansingclimateaction.art/)**
 
 ---
 
