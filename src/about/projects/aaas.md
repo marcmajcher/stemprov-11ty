@@ -3,7 +3,7 @@ title: American Association for the Advancement of Science Member Learning Hub
 layout: layouts/page.njk
 ---
 
-<!-- AAAS learning hub screenshot -->
+<img src="/img/aaas_screenshot.jpg" alt="screenshot of AAAS learning hub" width="400">
 
 ### Translating research into practical learning experiences for scientists and engineers.
 
@@ -37,7 +37,7 @@ For each course, I synthesized research spanning science communication, public e
 
 Rather than simply summarizing scholarship, I identified recurring themes, practical implications, and evidence-based recommendations that could inform course design.
 
-<!-- lit review or annotated bib excerpt -->
+<img src="/img/aaas_litreview.jpg" alt="screenshot of AAAS literature review table of contents" width="400">
 
 ---
 
@@ -49,7 +49,7 @@ Working within AAAS's instructional design framework, I developed detailed cours
 
 The goal wasn't simply to present information—it was to help learners apply evidence in their own contexts.
 
-<!-- course map -->
+<img src="/img/aaas_coursemap.jpg" alt="screenshot of AAAS course map excerpt" width="400">
 
 ---
 
@@ -80,15 +80,7 @@ For me, the project also demonstrates something central to my consulting practic
 
 - **Organizations:** American Association for the Advancement of Science (AAAS)
 - **Services:** Learning Design • Curriculum Development • Research Synthesis • Literature Reviews • Adult Learning
-- **Timeline:** 2025
-- **[AAAS Member Learning Hub](https://learninghub.aaas.org/)**
-
----
-
-## Resources
-- Course descriptions
-- Sample course map excerpt
-- Annotated bibliography excerpt
+- **[AAAS Member Learning Hub](https://learninghub.aaas.org/)**ß
 
 ---
 
