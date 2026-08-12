@@ -4,7 +4,7 @@ title: Projects
 templateClass: tmpl-page
 eleventyNavigation:
   key: Projects
-  order: 2
+  order: 5
 ---
 
 Every project begins with a different challenge.

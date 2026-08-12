@@ -4,7 +4,7 @@ title: Speaking
 templateClass: tmpl-page
 eleventyNavigation:
   key: Speaking
-  order: 3
+  order: 2
 ---
 
 # Conversations that challenge, connect, and inspire action.

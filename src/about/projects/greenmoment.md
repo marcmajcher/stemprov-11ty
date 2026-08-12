@@ -3,7 +3,7 @@ title: Reimagining Climate Futures Through Participatory Theatre
 layout: layouts/page.njk
 ---
 
-<!-- hero image -->
+<img src="/img/greenmoment.jpg" alt="green moment to share rehearsal" width="600">
 
 ### Designing arts-based learning experiences that help young people investigate climate change, agency, and collective action.
 
@@ -25,6 +25,8 @@ We asked:
 
 **How can participatory theatre help people investigate climate change together—and imagine new possibilities for collective action?**
 
+<img src="/img/transmissions.jpg" alt="transmissions from 2050 virtual performance" width="600">
+
 ---
 
 ## How We Got There
@@ -41,6 +43,8 @@ Rather than repeating the same curriculum each year, every iteration became an o
 
 **What did participants teach us, and how should that shape what we build next?**
 
+<img src="/img/greenmoment_rehearsal4.jpeg" alt="green moment to share rehearsal" width="600">
+
 ---
 
 ### Build an ensemble
@@ -51,7 +55,7 @@ Whether working with youth environmental leaders at Austin Youth River Watch or 
 
 Creating a strong ensemble allowed participants to take creative risks, navigate disagreement, and support one another throughout the creative process.
 
-*[Photos of ensemble-building activities]*
+<img src="/img/greenmoment_performance3.jpeg" alt="green moment to share performance" width="600">
 
 ---
 
@@ -65,7 +69,7 @@ Across multiple weeks, participants interviewed climate scientists and community
 
 Rather than communicating predetermined scientific conclusions, participants became co-researchers, using theatre to generate new questions and new ways of understanding climate change.
 
-*[Photos of devising workshops, interviews, or story development]*
+<img src="/img/greenmoment_rehearsal7.jpeg" alt="green moment to share rehearsal" width="600">
 
 ---
 
@@ -77,7 +81,7 @@ That meant adapting activities, changing the sequencing of workshops, creating n
 
 Rather than treating the curriculum as fixed, the project itself became a living experiment in participatory learning.
 
-*[Photos of curriculum drafts, facilitator notes, workshop planning, or research journals]*
+<img src="/img/greenmoment_performance6.jpeg" alt="green moment to share performance" width="600">
 
 ---
 
@@ -91,7 +95,7 @@ Audience members were encouraged to reflect, respond, and participate, transform
 
 Rather than leaving with a single message about climate change, audiences were invited to wrestle with uncertainty, complexity, and possibility alongside the performers.
 
-*[Photos from performances and audience interactions]*
+<img src="/img/greenmoment_performance1.jpeg" alt="green moment to share performance" width="600">
 
 ---
 
@@ -105,64 +109,32 @@ Participants developed greater confidence discussing climate change, strengthene
 
 The work also contributed to broader research on arts-based science communication, illustrating how creative inquiry can surface perspectives and questions that traditional communication approaches often overlook.
 
+<img src="/img/greenmoment_performance5.jpeg" alt="green moment to share performance" width="600">
+
 ---
 
 ## Gallery
 
-*Timeline of project iterations*
-
-*Ensemble-building activities*
-
-*Story development workshops*
-
-*Interviewing climate scientists*
-
-*Theatre of the Oppressed exercises*
-
-*Public performances*
-
-*Audience dialogue*
-
-*Curriculum evolution across iterations*
+<img src="/img/greenmoment1.jpeg" alt="green moment to share performance" width="300">
+<img src="/img/greenmoment_rehearsal.jpeg" alt="green moment to share rehearsal" width="300">
+<img src="/img/greenmoment_rehearsal1.jpeg" alt="green moment to share rehearsal" width="300">
+<img src="/img/greenmoment2.jpeg" alt="green moment to share performance" width="300">
+<img src="/img/greenmoment_rehearsal3.jpeg" alt="green moment to share rehearsal" width="300">
+<img src="/img/greenmoment3.jpeg" alt="green moment to share performance" width="300">
+<img src="/img/greenmoment_rehearsal5.jpeg" alt="green moment to share rehearsal" width="300">
+<img src="/img/greenmoment_rehearsal6.jpeg" alt="green moment to share rehearsal" width="300">
+<img src="/img/greenmoment_performance.jpeg" alt="green moment to share performance" width="300">
+<img src="/img/greenmoment_rehearsal8.jpeg" alt="green moment to share rehearsal" width="300">
+<img src="/img/greenmoment_rehearsal9.jpeg" alt="green moment to share rehearsal" width="300">
+<img src="/img/greenmoment_rehearsal2.jpeg" alt="green moment to share rehearsal" width="300">
 
 ---
 ## Project Details & Resources
-> **Design Principle**
->
-> **People don't become agents of change by receiving answers—they become agents of change by asking better questions together.**
->
-> Participatory theatre creates space for people to investigate complex challenges, imagine alternatives, and rehearse new possibilities.
-
----
-
-
-> **Organization**
-> The University of Texas at Austin, Austin Youth River Watch
->
-> **Sector**
-> Climate Communication • Youth Engagement • Participatory Research
->
-> **Services**
-> Learning Design • Facilitation • Applied Theatre • Participatory Research • Climate Communication
->
-> **Audience**
-> Youth environmental leaders and undergraduate students
->
-> **Timeline**
->
-> **2020** — *Transmissions from 2050* (virtual) with Austin Youth River Watch
->
-> **2021** — Summer camp implementation with Austin Youth River Watch
->
-> **2023** — *A Green Moment to Share* with undergraduate students at The University of Texas at Austin
-
-## Resources
-
-- *Transmissions from 2050* curriculum
-- *A Green Moment to Share* facilitation guide
-- Performance excerpts
-- Workshop materials
-- Research publications
+- **Organization**: The University of Texas at Austin Office of Sustainability, Austin Youth River Watch, Planet Texas 2050
+- **Services**: Learning Design • Facilitation • Applied Theatre • Participatory Research • Climate Communication
+- **Peer-Reviewed Publication**: [A Green Moment to Share: A Theatrical Laboratory to Explore Climate Crisis Possibilities within Single Moments](https://www.mdpi.com/2076-0752/13/4/120)
+- **Article**: [Using Theater to Uncover Youth Climate Change Narratives](https://earlycareerclimate.org/2023/07/25/using-theater-to-uncover-youth-climate-change-narratives/)
+- **Talk**: [Planet Texas 2050 Symposium Lightning Talk](https://www.youtube.com/clip/Ugkx_ogKxA7BFKJ-XND3yXnWuXeTRLmdR3V4)
 
 ---
 

@@ -4,7 +4,7 @@ title: Writing & Ideas
 templateClass: tmpl-page
 eleventyNavigation:
   key: Writing & Ideas
-  order: 5
+  order: 3
 ---
 
 The best workshops don't begin the day people walk into the room.
