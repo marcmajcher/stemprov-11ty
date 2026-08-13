@@ -43,18 +43,18 @@ How to create workshops people can help us rehearse the cultures we want.
 
 *A selection of my past speaking engagements*
 
-Reclaiming STEM Institute's Putting Science to Work (People, Power, Change)
-[Video recording](https://drive.google.com/drive/u/0/my-drive)
+##### NSF AISL Awardee Meeting: “Stories for Impact: Responsive Storytelling for AISL Projects
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3BpSQ64y9fU?si=tQEVO8_YfZvm9lRP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[NSF AISL Awardee Meeting: “Stories for Impact: Responsive Storytelling for AISL Projects”](https://www.youtube.com/watch?v=3BpSQ64y9fU)
+##### Identidades científicas em cientistas em formação (Science Identities for Scientists in Training)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ko_yHp6-JCA?si=_-8S_zShtllMhsr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Reimagining Climate Futures Through Participatory Theatre [Green Moment to Share Rehearsal and Performance Photos](https://photos.google.com/u/1/share/AF1QipMre2Hl3ERyQ8Vbb9Fo8aT1EEE-BIPwmKcK7UVGt2xbfl6HFgKKFfsWbr_RnVbf3Q) from Cohen New Works Festival, University of Texas at Austin
+##### PCST Teaching Forum webinar - Participatory Approaches to Teaching Science Communication
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fI6u_R9ckks?si=YFLrNTyOmwJKmPIr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen &t=31m54s></iframe>
 
-[Webinar: National Academy of Engineering Report: “Impacts of National Science Foundation Support Engineering Research on Society”](https://www.youtube.com/watch?v=l2yC10_Vyf4)
+##### SciPEP2023 | 9: A SciComm Research Agenda - What do we include?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s4_9HZMRoRM?si=hfsnQ-DdOMdWuZtZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[PCST Teaching Forum webinar - Participatory Approaches to Teaching Science Communication](https://www.youtube.com/watch?v=fI6u_R9ckks&ab_channel=PCSTNetwork)
-- Presentation: https://drive.google.com/file/d/1oRF5CGMMOCMzhSmVGWLmJBqIwWDCM6fT/view
-
-[Willingness to Engage Series Part One: Indirect Effects of Science Communication Training on Scientists’ Public Engagement, Alda-Kavli Learning Center Online Learning for Scientists and Researchers](https://www.youtube.com/watch?v=cMA8hLQPgZo&t=1s)
-
+##### Willingness to Engage Series Part One: Indirect Effects of Science Communication Training on Scientists’ Public Engagement, Alda-Kavli Learning Center Online Learning for Scientists and Researchers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cMA8hLQPgZo?si=BwW51tMkccHiHnd2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
