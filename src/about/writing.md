@@ -20,25 +20,22 @@ Here you'll find essays, research, comics, talks, and practical resources that h
 I hope they spark new questions for you, too.
 # Start here
 If you're new to my work, these three pieces offer the best introduction to how I think.
-### [Science Communication Won't Save Us. Collective Action Will](https://buttondown.com/scienceinsolidarity/archive/science-communication-wont-save-us-collective/)
-Science communication can help people understand the world—but understanding alone rarely changes it. In this essay, I explore what community organizing can teach us about moving from information to relationships, leadership, and collective action.
 
-**Read the essay →**
+### [Science is best communicated through identity and culture – how researchers are ensuring STEM serves their communities](https://theconversation.com/science-is-best-communicated-through-identity-and-culture-how-researchers-are-ensuring-stem-serves-their-communities-246475)
+A comic adaptation of my research exploring how scientists from marginalized communities are reshaping science communication through identity, culture, and belonging.
+
 ### [Science Communication Spaces as "Pockets of Belonging"](https://journals.sagepub.com/doi/10.1177/10755470241268587)
 What if science communication wasn't simply about transmitting knowledge? Drawing on my research, this article explores how science communication spaces can become places where more people feel they belong—and why that matters for the future of science.
 
-**Read the paper →**
-### [**Science is best communicated through identity and culture – how researchers are ensuring STEM serves their communities**](https://theconversation.com/science-is-best-communicated-through-identity-and-culture-how-researchers-are-ensuring-stem-serves-their-communities-246475)
-A comic adaptation of my research exploring how scientists from marginalized communities are reshaping science communication through identity, culture, and belonging.
+### [Science Communication Won't Save Us. Collective Action Will](https://buttondown.com/scienceinsolidarity/archive/science-communication-wont-save-us-collective/)
+Science communication can help people understand the world—but understanding alone rarely changes it. In this essay, I explore what community organizing can teach us about moving from information to relationships, leadership, and collective action.
 
-**Read the comic →**
 # Science, Power & Belonging
 *My scholarship  explores how power, ideology, identity, and belonging shape science communication—and what science might become if it were more accountable to the communities it serves.*
 
 **Featured writing**
 - [Science Communication Spaces as "Pockets of Belonging"](https://journals.sagepub.com/doi/10.1177/10755470241268587)
--  [Examining Access To The Rich Resources Of Science Communication Fellowship Programs]
-	- comic panels https://drive.google.com/drive/u/0/folders/1d3_iGo1GajtR1m0730Xeo_TTPM1lOpc_
+- [Science Communication Fellowships as Gatekeepers](https://journals.sagepub.com/doi/10.1177/09636625221115958)
 - [Race-evasive ideology in U.S.-based science communication fellowship director discourse](https://jcom.sissa.it/article/pubid/JCOM_2301_2024_A06/)
 - [ReclaimingSTEM: A healing-centered counterspace model for inclusive science communication and policy training](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2023.1026383/full)
 
@@ -55,12 +52,10 @@ These writings explore participatory learning, improvisation, Theatre of the Opp
 **Featured work**
 - [Using Theater to Uncover Youth Climate Change Narratives](https://earlycareerclimate.org/2023/07/25/using-theater-to-uncover-youth-climate-change-narratives/)
 - [The Landscape of Art-Science Collaboration Programs](https://mediaengagement.org/research/landscape-of-art-science-collaboration-programs/)
-- [Confronting Crises: Art-Science as Mirror, Connector, and Portal]https://www.taylorfrancis.com/chapters/edit/10.4324/9781003385837-26/confronting-crises-nic-bennett-anthony-dudo)
-- Findings from the Art-Science Landscape Study (comic)
-	- https://drive.google.com/drive/u/0/folders/1yFNcwNubtqN7MyMduZrEtNJrxJwrWUH1
+- [Confronting Crises: Art-Science as Mirror, Connector, and Portal](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003385837-26/confronting-crises-nic-bennett-anthony-dudo)
 - [Whimsy. Is there a role for laughter, subversive curve balls, ironic romance and “oh wow that’s cool” moments in the mainstreaming of knowledge and action in sustainability, climate change, and biodiversity?](https://www.thenatureofcities.com/2024/11/15/whimsy-is-there-a-role-for-laughter-subversive-curve-balls-ironic-romance-and-oh-wow-thats-cool-moments-in-the-mainstreaming-of-knowledge-and-action-in-sustainability-cl/)
 
-**Explore facilitation ideas →**([[Case Studies]]]
+[**Explore more facilitation →**](/about/services)
 
 
 ---
@@ -91,9 +86,8 @@ Browse recorded talks, interviews, podcasts, and conference presentations on civ
 **Featured conversations**
 - [SciComm Conversations Podcast: “Identities in science communication”](https://coalesceproject.eu/2025/12/22/scicomm-conversations-s02e02/)
 - [PCST Teaching Forum webinar - Participatory Approaches to Teaching Science Communication](https://www.youtube.com/watch?v=fI6u_R9ckks&ab_channel=PCSTNetwork)
-- [[Instituto Nacional de Comunicação Pública da Ciência e Tecnologia Divulgação Científica - Identidades científicas em cientistas em formação](https://www.youtube.com/watch?v=ko_yHp6-JCA&ab_channel=INCT-CPCTDivulga%C3%A7%C3%A3oCient%C3%ADfica)](https://www.youtube.com/watch?v=ko_yHp6-JCA)
+- [Instituto Nacional de Comunicação Pública da Ciência e Tecnologia Divulgação Científica - Identidades científicas em cientistas em formação](https://www.youtube.com/watch?v=ko_yHp6-JCA)
 - [CIMMYT Catalysts of Change: Leaders in Science](https://www.youtube.com/watch?v=IAoFWnCplxI)
-
 
 ---
 
@@ -130,6 +124,7 @@ If you're interested in the traditions behind my work, here are a few places to 
 [Meeting the Moment](https://buttondown.com/liminalcreations)
 
 ---
+<!--
 # Continue the Conversation
 
 I write regularly about facilitation, science communication, organizing, and the questions I'm wrestling with in my own practice.
@@ -137,3 +132,4 @@ I write regularly about facilitation, science communication, organizing, and the
 If you'd like new essays delivered to your inbox, I'd love to have you along.
 
 **Subscribe to the newsletter →**
+ -->
