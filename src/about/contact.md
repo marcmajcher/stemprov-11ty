@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 # Let's build something together
 
-Every organization has different goals, challenges, and people. That's why I don't believe in one-size-fits-all workshops or retreats.
+Every organization has different goals, challenges, and people. That's why my work is often customized through a collaboration.
 
 Whether you're planning a conference, designing a leadership program, facilitating a strategic planning retreat, or looking for creative ways to strengthen collaboration, I'd love to learn what you're working on and explore how I might help.
 
@@ -25,7 +25,7 @@ Most conversations start with questions like:
 - We have a challenge that doesn't fit neatly into a workshop title—can we brainstorm together?
 
 
-If any of those sound familiar—or if you're working on something entirely different—I'd love to hear from you.
+If any of those sound familiar (or if you're working on something entirely different) I'd love to hear from you. The stranger the better.
 
 ## What it's like to work together
 
