@@ -83,7 +83,7 @@ I design participatory workshops and learning experiences where people actively 
 ### See it in practice
 
 - [AAAS Member Learning Hub](/about/projects/aaas)
-- [Designing Research-Informed Science Communication for the National Academy of Engineering](about/projects/nae)
+- [Designing Research-Informed Science Communication for the National Academy of Engineering](/about/projects/nae)
 
 **Let's design learning that sticks.**
 

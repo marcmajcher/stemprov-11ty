@@ -2,30 +2,9 @@
 title: Designing Research-Informed Science Communication for the National Academy of Engineering
 layout: layouts/page.njk
 ---
+<img src="/img/nae5.jpg" alt="behind the scenes of making the nae project" width="600">
 
 ### Translating research into engaging educational media that broadens participation in engineering.
-
-> **Design Principle**
->
-> **Good communication begins with understanding your audience—not your message.**
->
-> The most effective communication products emerge from an iterative process of research, creativity, testing, and collaboration.
-
----
-
-> **Organizations**
-> [National Academy of Engineering](https://www.nae.edu/), [Alan Alda Center for Communicating Science](https://www.aldacenter.org/), and [MIT Introduction to Technology, Engineering, and Science](https://mites.mit.edu/)
->
-> **Sector**
-> Science Communication • STEM Education • Higher Education
->
-> **Services**
-> Project Management • Learning Design • Strategic Communication • Audience Research • Evaluation
->
-> **Audience**
-> High school students exploring engineering careers
-
-<!-- engineering media screenshot -->
 
 ---
 
@@ -41,6 +20,8 @@ Rather than asking, **"How do we explain engineering?"**, we asked a different q
 
 **How might we help more young people see engineering as creative, socially meaningful, and made possible through long-term public investment in research?**
 
+<img src="/img/nae.jpg" alt="behind the scenes of making the nae project" width="200">
+
 ---
 
 ## How We Got There
@@ -53,6 +34,8 @@ As the project evolved, I also adapted to changing team capacity. When several p
 
 Throughout the project, my focus remained the same: helping every creative decision reflect both the research evidence and the needs of the intended audience.
 
+<img src="/img/nae4.jpg" alt="behind the scenes of making the nae project" width="600">
+
 ---
 
 ### Begin with research
@@ -63,7 +46,7 @@ I synthesized research on engineering identity, audience perceptions, and effect
 
 That research became the foundation for story development, messaging, and visual design.
 
-<!-- Research synthesis or planning documents -->
+<img src="/img/nae_plan.jpg" alt="excerpt of project planning document" width="400">
 
 ---
 
@@ -75,8 +58,7 @@ Working across disciplines, I helped translate research into videos, graphics, a
 
 As production needs shifted, I collaborated with Alan Alda Center staff and developed additional communication products to ensure the project delivered on its goals.
 
-<!-- Storyboards, production photos, or design artifacts -->
-
+<img src="/img/nae3.jpg" alt="behind the scenes of making the nae project" width="400">
 
 ---
 
@@ -90,7 +72,9 @@ Their feedback challenged our assumptions, highlighted opportunities to make eng
 
 Evaluation wasn't the final step—it was part of the design process from the beginning.
 
-<!--Photos from audience testing, feedback sessions, or revised storyboards -->
+<img src="/img/nae2.jpg" alt="behind the scenes of making the nae project" width="300">
+
+<img src="/img/bunny.jpg" alt="behind the scenes of making the bunny shake table video" width="300">
 
 ---
 
@@ -104,29 +88,31 @@ Featured by the National Academy of Engineering, the project illustrates how res
 
 For me, the project also demonstrates a core part of my consulting practice: bringing together research, creative teams, and end users to produce communication that is grounded in evidence and shaped by the people it is intended to serve.
 
+<img src="/img/nae1.jpg" alt="behind the scenes of making the nae project" width="200">
+
+## Exemplar: Bunny Shake Table
+<video width="640" height="480" controls>
+  <source src="/img/bunny_shake_table.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+## Exemplar: Carbon Queen Interactive Comic
+<iframe
+  src="https://prezi.com/p/embed/Koual9T550BYt1xAboDA/"
+  width="100%"
+  height="300px"
+  style="border:none;"
+  title="Carbon Queen Interactive Comic">
+</iframe>
+
 ---
 
-## Gallery
-
-*Educational videos*
-
-*Storyboards*
-
-*Engineering communication materials*
-
-*Audience testing*
-
-*Production process*
-
----
-
-## Resources
+## Project Details & Resources
 
 - [National Academy of Engineering Webinar](https://www.youtube.com/watch?v=l2yC10_Vyf4)
-- [NAE Production Guide](https://docs.google.com/document/d/1Y-S-5i_Q2wk-nQlho5ODj21n8Do9FAd2q2nHvY8IGNE/edit?tab=t.0#heading=h.6vwco5j77qvo)
 - [Example Outreach Materials](https://www.nationalacademies.org/read/27873/chapter/7#135)
-- [Exemplar - Queen of Carbon Interactive Comic](https://prezi.com/p/embed/Koual9T550BYt1xAboDA/)
-- [Exemplar - Bunny Shake Table](https://drive.google.com/drive/u/3/folders/1NKLuTinHgGTecniNyMCLB9k4dBoHZFRl)
+- **Organizations**: [National Academy of Engineering](https://www.nae.edu/), [Alan Alda Center for Communicating Science](https://www.aldacenter.org/), and [MIT Introduction to Technology, Engineering, and Science](https://mites.mit.edu/)
+- **Services**: Project Management • Learning Design • Strategic Communication • Audience Research • Evaluation
 
 ---
 
