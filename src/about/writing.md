@@ -124,12 +124,26 @@ If you're interested in the traditions behind my work, here are a few places to 
 [Meeting the Moment](https://buttondown.com/liminalcreations)
 
 ---
-<!--
+
 # Continue the Conversation
 
 I write regularly about facilitation, science communication, organizing, and the questions I'm wrestling with in my own practice.
 
 If you'd like new essays delivered to your inbox, I'd love to have you along.
 
-**Subscribe to the newsletter →**
- -->
+**Subscribe to my newsletter ↓**
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/nicbennett"
+  method="post"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.com/refer/nicbennett" target="_blank">
+      Powered by Buttondown.
+    </a>
+  </p>
+</form>
+  </blockquote>
